@@ -1,0 +1,270 @@
+rank,city,snapshot,cliff_share_pct,cliff_2025_usd_billions,note
+1,Rome,c. AD 1-14,4.0,5080,kept
+2,London,1890-1913,2.3,2921,kept
+3,Pi-Ramesses,c. 1270-1070 BC,2.1,2667,kept
+4,Constantinople,c. 500-540,1.86,2362,kept
+5,Alexandria,c. 60 BC,1.71,2172,kept
+6,Carthage,149 BC,1.69,2146,kept
+7,Cordoba,c. 1000,1.48,1880,kept
+8,Syracuse,385 BC,1.13,1435,kept
+9,The Ruhr (unit),1900-1939,1.1,1397,kept
+10,New York (benchmark),2024,1.06,1346,kept
+11,Antioch,c. AD 100-250,1.01,1283,kept
+12,Paris,1880-1913,0.91,1156,kept
+13,Athens,431 BC,0.85,1080,kept
+14,Berlin,1900-1939,0.84,1067,kept
+15,Memphis,c. 2500 BC,0.81,1029,kept
+16,Thebes (Egypt),c. 1400-1200 BC,0.76,965,kept
+17,Tal'yanky,c. 3800 BC,0.69,876,kept
+18,Maidanets'ke,c. 3700 BC,0.64,813,kept
+19,Akragas,410 BC,0.62,787,kept
+20,Cairo,c. 1340,0.6,762,kept
+21,Sybaris,c. 520 BC,0.58,737,kept
+22,Moscow,2005-2014,0.53,673,kept
+23,Palermo,c. 1000,0.52,660,kept
+24,Avaris,c. 1650-1550 BC,0.51,648,kept
+25,Roman Carthage,c. AD 200-400,0.5,635,"added: accepted, absent from ledger"
+26,Hamburg,1965-1990,0.49,622,kept
+27,Taras,c. 340 BC,0.45,572,kept
+28,Rhodes,c. 300-200 BC,0.4,508,kept
+29,Ephesus,c. AD 100-200,0.39,495,kept
+30,Amarna (exception),c. 1350-1335 BC,0.38,483,kept
+31,Kroton,c. 500 BC,0.35,444,kept
+32,Vienna,1900-1913,0.35,444,"added: accepted, absent from ledger"
+33,Glasgow,1890-1925,0.34,432,kept
+34,Madrid,2008,0.33,419,kept
+35,Corinth,c. 400 BC,0.32,406,kept
+36,Munich,1965-1990,0.32,406,kept
+37,Itjtawy,c. 1985-1700 BC,0.32,406,kept
+38,Los Angeles (benchmark),2024,0.31,394,kept
+39,Milan,c. 1288,0.31,394,kept
+40,Birmingham,1890-1913,0.3,381,kept
+41,Heliopolis,c. 1300 BC,0.3,381,kept
+42,Riyadh,2000-2024,0.3,381,kept
+43,Tanis,c. 1070-715 BC,0.3,381,kept
+44,Nizhnevartovsk,1975-1991,0.3,381,revised up from 0.025
+45,Naples,c. 1600-1656,0.29,368,kept
+46,Manchester,1890-1913,0.29,368,kept
+47,Hattusa,c. 1400-1200 BC,0.28,356,kept
+48,Sarai,c. 1330-1360,0.27,343,kept
+49,Liverpool,1890-1913,0.26,330,kept
+50,Saint Petersburg,1965-1989,0.26,330,kept
+51,Fustat,c. 969-1168,0.26,330,kept
+52,Cyrene,c. 480 BC,0.26,330,kept
+53,Lugdunum,c. AD 150-190,0.25,318,kept
+54,Kuwait City,1974-1982,0.25,318,revised up from 0.1
+55,Knossos,c. 1600 BC,0.24,305,kept
+56,Miletus,c. 550 BC,0.24,305,kept
+57,Pergamon,c. 200-133 BC,0.24,305,kept
+58,Sais,c. 664-525 BC,0.24,305,kept
+59,Al-Ahsa (Hofuf-Mubarraz),1974-1985,0.24,305,"added: Potosi rule, Ghawar sectors at its door"
+60,Fez,c. 1200-1350,0.237,301,kept
+61,Stockholm,1965-1990,0.23,292,kept
+62,Thessaloniki,c. 300-600,0.23,292,kept
+63,Cologne,1965-1990,0.22,279,kept
+64,Bubastis (Tell Basta),c. 945-715 BC,0.22,279,kept
+65,Katowice,1900-1938,0.22,279,revised up from 0.052
+66,Kanesh,c. 1950-1750 BC,0.21,267,kept
+67,Leptis Magna,c. AD 200,0.205,260,kept
+68,Budapest,1925-1938,0.2,254,kept
+69,Frankfurt am Main,1965-1990,0.2,254,kept
+70,Narbo Martius,c. AD 50-100,0.2,254,kept
+71,Capua,c. 340 BC,0.2,254,kept
+72,Newcastle upon Tyne,1900-1913,0.2,254,revised up from 0.088
+73,Trier,c. 300-390,0.197,250,kept
+74,Ptolemais Hermiou (Al Minshah),c. 25 BC,0.196,249,kept
+75,Venice,c. 1340,0.19,241,kept
+76,Heracleopolis Magna,c. 2160-2040 BC,0.19,241,kept
+77,Aquileia,c. AD 168-180,0.19,241,kept
+78,Kairouan,c. 1000,0.19,241,kept
+79,Marrakesh,c. 1200,0.19,241,kept
+80,Ma'rib,c. 500 BC,0.19,241,kept
+81,Amsterdam,c. 1665-1700,0.186,236,kept
+82,Hierakonpolis (Nekhen),c. 3500 BC,0.184,234,kept
+83,Dusseldorf,1965-1990,0.18,229,kept
+84,Brussels (Region),1986-2010,0.18,229,kept
+85,Smyrna,c. AD 100-200,0.18,229,kept
+86,Pella,c. 330-280 BC,0.18,229,kept
+87,Sheffield,1890-1913,0.18,229,kept
+88,Barcelona,2008,0.177,225,kept
+89,Copenhagen,1970-1995,0.176,224,kept
+90,Halicarnassus,c. 377-353 BC,0.174,221,kept
+91,Stuttgart,1965-1990,0.173,220,kept
+92,Turin,1960-1985,0.17,216,kept
+93,Lisbon,c. 1600,0.17,216,kept
+94,Argos,c. 420 BC,0.17,216,kept
+95,Oslo,2000-2024,0.168,213,kept
+96,Abu Dhabi,2000-2024,0.163,207,kept
+97,Caere (Cerveteri),c. 530 BC,0.16,203,kept
+98,Veii,c. 450 BC,0.16,203,kept
+99,Puteoli,c. AD 1-50,0.16,203,kept
+100,Thebes (Greece),c. 365 BC,0.16,203,kept
+101,Florence,c. 1338,0.16,203,kept
+102,Nicomedia,c. 286-330,0.158,201,kept
+103,Cyzicus,c. AD 100-170,0.157,199,kept
+104,Dubai,2000-2024,0.153,194,kept
+105,Metapontum,c. 480 BC,0.15,190,kept
+106,Jeddah,2000-2024,0.15,190,kept
+107,Leeds,1890-1913,0.15,190,kept
+108,Ostia,c. AD 150,0.15,190,kept
+109,Aegina,c. 490 BC,0.148,188,kept
+110,Tarsus,c. AD 1-200,0.148,188,kept
+111,Belfast,1900-1913,0.146,185,kept
+112,Laodicea on the Lycus,c. AD 1-200,0.141,179,kept
+113,Mannheim-Ludwigshafen,1965-1990,0.141,179,kept
+114,Sardis,c. 550 BC,0.141,179,kept
+115,Arles,c. AD 400,0.14,178,kept
+116,Zurich,1986-2010,0.14,178,kept
+117,Dublin,2000-2024,0.14,178,kept
+118,Leipzig,1900-1913,0.14,178,kept
+119,Gela,c. 490 BC,0.138,175,kept
+120,Chios,c. 430 BC,0.136,173,kept: restored by audit
+121,Seville,c. 1590,0.136,173,kept
+122,Carthago Nova,c. 150 BC,0.135,171,kept
+123,Kyiv,1965-1989,0.135,171,kept
+124,Locri Epizephyrii,c. 380 BC,0.135,171,kept
+125,Tunis,c. 1300,0.134,170,kept
+126,Warsaw,1925-1938,0.133,169,kept
+127,Patavium,c. AD 1,0.13,165,kept
+128,Ravenna,c. 402-526,0.13,165,kept
+129,Bejaia,c. 1100,0.13,165,kept
+130,Genoa,c. 1300,0.13,165,kept
+131,Hanover,1965-1990,0.13,165,kept
+132,Marseille,c. 1900,0.13,165,kept
+133,Corcyra,c. 435 BC,0.128,163,kept
+134,Bremen,1965-1990,0.128,163,kept
+135,Samos,c. 530 BC,0.128,163,kept
+136,Dresden,1900-1913,0.127,161,kept
+137,Alexandria Troas,c. AD 1-250,0.126,160,kept
+138,Selinus,c. 450-409 BC,0.126,160,kept
+139,Doha,2000-2024,0.125,159,kept
+140,Gerrha,c. 300-100 BC,0.125,159,kept
+141,Helsinki,1985-2010,0.125,159,kept
+142,Mendes,c. 400-343 BC,0.121,154,kept
+143,Cumae,c. 500 BC,0.12,152,kept
+144,Bristol,1890-1913,0.12,152,kept
+145,Wroclaw (Breslau),1900-1913,0.12,152,kept
+146,Novy Urengoy,1983-2010,0.12,152,revised up from 0.01
+147,Bucharest,2010-2024,0.12,152,"added: accepted, absent from ledger"
+148,Rhegium,c. 480 BC,0.118,150,kept
+149,Antwerp,1986-2010,0.117,149,kept
+150,Nuremberg,1965-1990,0.117,149,kept
+151,Gothenburg,1965-1990,0.115,146,kept
+152,Prague,1925-1938,0.115,146,kept
+153,Ankara,2000-2024,0.114,145,kept
+154,Edinburgh,1890-1913,0.114,145,kept
+155,Tlemcen,c. 1330,0.112,142,kept
+156,Bradford,1890-1913,0.11,140,kept
+157,Sparta,c. 404 BC,0.11,140,kept
+158,Rotterdam,1965-2010,0.109,138,kept
+159,Apamea Cibotus,c. 50 BC-AD 100,0.107,136,kept
+160,Ghent,c. 1340,0.104,132,kept
+161,Tralles,c. AD 1-150,0.1,127,kept
+162,Algiers,1985,0.1,127,kept
+163,Gades,c. AD 1,0.1,127,kept
+164,Kharkiv,1965-1989,0.1,127,kept
+165,Panticapaeum,c. 350 BC,0.1,127,kept
+166,Tripoli,1975-1985,0.1,127,window corrected
+167,Lille,1890-1913,0.1,127,revised up from 0.065
+168,Liege,1890-1913,0.1,127,revised up from 0.0625
+169,Surgut,1979-1989,0.1,127,revised up from 0.04
+170,Nefteyugansk,1983-1989,0.1,127,revised up from 0.01
+171,Abqaiq,1974-1984,0.1,127,"added: Potosi rule, thin, company town"
+172,Bordeaux,c. AD 100-200,0.093,118,kept
+173,Hull,1890-1913,0.093,118,kept
+174,Nottingham,1890-1913,0.093,118,kept
+175,Siena,c. 1330,0.091,116,kept
+176,Leontopolis,c. 818-720 BC,0.089,113,kept
+177,Messina,c. 70 BC,0.089,113,kept
+178,Nizhny Novgorod,1965-1989,0.089,113,kept
+179,Wuppertal,1900-1913,0.089,113,kept
+180,Heraclea Pontica,c. 364-305 BC,0.088,112,kept
+181,Edessa,c. 200-600,0.087,110,kept
+182,Leicester,1925-1960,0.086,109,kept
+183,Volsinii,c. 480 BC,0.085,108,kept
+184,Chemnitz,1900-1913,0.084,107,kept
+185,Yekaterinburg,1965-1989,0.084,107,kept
+186,Stoke-on-Trent,1890-1913,0.083,105,kept
+187,Cardiff,1900-1913,0.082,104,kept
+188,Philippopolis (Plovdiv),c. AD 100-250,0.082,104,kept
+189,Salona,c. AD 200-300,0.082,104,kept
+190,Caesarea Mazaca (Kayseri),c. AD 200-370,0.081,103,kept
+191,Naukratis,c. 620-332 BC,0.081,103,kept
+192,Minsk,1965-1989,0.08,102,kept
+193,Novosibirsk,1965-1989,0.08,102,kept
+194,Middlesbrough,1900-1913,0.08,102,revised up from 0.047
+195,Khartoum,2000-2023,0.08,102,revised up from 0.035
+196,Sebennytos,c. 380-343 BC,0.079,100,kept
+197,Coventry,1935-1965,0.079,100,kept
+198,Emerita Augusta,c. AD 300,0.079,100,kept
+199,Samara,1965-1989,0.079,100,kept
+200,Bologna,c. 1300-1348,0.078,99,kept
+201,Toulouse,c. AD 100,0.078,99,kept
+202,Constantine (Cirta),c. 150 BC,0.077,98,kept
+203,Sirmium,c. 290-380,0.076,97,kept
+204,Valencia,c. 1480,0.076,97,kept
+205,Chelyabinsk,1965-1989,0.075,95,kept
+206,Utica,c. 100 BC,0.075,95,kept
+207,Saint-Etienne,1860-1920,0.075,95,revised up from 0.05
+208,Ani,c. 961-1045,0.074,94,kept
+209,Dnipro,1965-1989,0.073,93,kept
+210,Donetsk,1965-1989,0.073,93,kept
+211,Kolophon,c. 650-550 BC,0.072,91,kept
+212,Portsmouth,1900-1913,0.072,91,kept
+213,Dammam,2000-2024,0.07,89,kept
+214,Delos,c. 150-88 BC,0.07,89,kept: restored by audit
+215,Basel,1925-1990,0.07,89,revised up from 0.058
+216,Saarbrucken,1900-1913,0.07,89,revised up from 0.046
+217,Porto,1975-1995,0.07,89,revised up from 0.039
+218,Addis Ababa,2018-2024,0.07,89,revised up from 0.036
+219,Nantes,1850s,0.07,89,revised up from 0.035
+220,Jubail,2015-2024,0.07,89,"added: estimated, thin"
+221,Roman Miletus,c. AD 100,0.07,89,"added: accepted, absent from ledger"
+222,Roman Corinth,c. AD 100-200,0.07,89,"added: accepted, absent from ledger"
+223,Amman,2017-2024,0.07,89,added: population share
+224,Petra,c. 100 BC-AD 106,0.07,89,added: L
+225,Lodz,1925-1938,0.068,86,kept
+226,Odesa,1900-1913,0.068,86,kept
+227,Omsk,1965-1989,0.068,86,kept
+228,Perm,1965-1989,0.068,86,kept
+229,Tarraco,c. AD 100-150,0.068,86,kept
+230,Belgrade,1965-1990,0.067,85,kept
+231,Ufa,1965-1989,0.067,85,kept
+232,Plymouth,1900-1913,0.066,84,kept
+233,Riga,1900-1913,0.065,83,kept
+234,The Hague,1986-2010,0.065,83,kept
+235,Bruges,c. 1350,0.065,83,kept
+236,Pisa,c. 1250-1284,0.065,83,kept
+237,Bilbao,1965-1992,0.065,83,revised up from 0.035
+238,Kazan,1965-1989,0.064,81,kept
+239,Magdeburg,1900-1913,0.064,81,kept
+240,Volgograd,1965-1989,0.0625,79,kept
+241,Caffa,c. 1400,0.062,79,kept
+242,Rouen,c. 1550,0.062,79,kept
+243,Geneva,1986-2010,0.06,76,kept
+244,Bursa,2000-2024,0.06,76,kept
+245,Konigsberg,1900-1939,0.06,76,kept
+246,Sohar,c. 900-970,0.06,76,kept
+247,Charleroi,c. 1960,0.06,76,revised up from 0.045
+248,Kerma,c. 1750-1550 BC,0.06,76,"added: reference figure, thin"
+249,Zaporizhzhia,1965-1989,0.058,74,kept
+250,Rostov-on-Don,1965-1989,0.057,72,kept
+251,Krasnoyarsk,1975-1988,0.057,72,"added: audit flip, thin"
+252,Leiden,c. 1665,0.056,71,kept
+253,Sofia,1965-1989,0.055,70,kept
+254,Bern,1947-1980,0.055,70,revised up from 0.044
+255,Nice,1985-2000,0.055,70,revised up from 0.04
+256,Almetyevsk,1977-1984,0.055,70,revised up from 0.012
+257,Saratov with Engels,1970-1987,0.055,70,"added: audit flip, thin"
+258,Szczecin (Stettin),1930-1945,0.055,70,"added: audit flip, thin"
+259,Londinium,c. AD 100-200,0.055,70,"added: audit flip, thin, separate from London"
+260,Heracleion (Thonis),c. 600-300 BC,0.053,67,kept
+261,Malmo,1965-1990,0.052,66,kept
+262,Casablanca,1980,0.051,65,kept
+263,Trieste,1890-1913,0.05,64,revised up from 0.04
+264,Krakow,2010-2024,0.05,64,revised up from 0.035
+265,Ostrava,1965-1989,0.05,64,revised up from 0.025
+266,Manama,2005-2019,0.05,64,revised up from 0.025
+267,Almeria,c. 1100-1147,0.05,64,added: L
+268,Akragas (Timoleon refoundation),c. 338-262 BC,0.05,64,"added: audit flip, thin"
+269,Utrecht,1986-2010,0.048,61,kept
