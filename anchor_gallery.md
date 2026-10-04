@@ -160,3 +160,18 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Sarai c. 1330–60 (0.27) at pop; GDP top sits between Hamburg 1965–90 (0.49) and Taras c. 340 BCE (0.45) — ledger rank ~#27.
 **Registry booking:** Zarafshan basin aggregates — Samarkand UZ (middle valley) 55–60%, Bukhara UZ (lower) 35–40%, Panjakent TJ (upper) ≤10%, at all pre-modern windows. Binds Unit "Bukhoro".
 **Flags:** two-window ambiguity reported; the 2.0 Sogdian multiplier imports Turfan-documented commerce to a Samarkand numerator — the boldest single move in the gallery so far, flagged as such.
+
+---
+
+## UNIT 008 — KASHKADARYA VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** the Kashkadarya basin (~28,570 km²), two oases: upper = **Kesh/Shahrisabz** (Sogdian Shi state, Timur's clan seat, Ak-Saray palace); lower = **Nakhshab/Nasaf/Qarshi** (Erkurgan ~150 ha pre-Islamic walled site; Kebek Khan's 1320s palace that named the city). Plus the gas belt: Shurtan, Mubarek complex, Kokdumalak.
+**PEAK:** Window 6, **c. 680 CE** — Kesh's moment of seniority among the Sogdian principalities (the Shi-state primacy of the mid-7th c., per the Tang lists and the Grenet–de la Vaissière school). **WINNING PATHWAY:** GDP.
+**LAWYERED:** pop **0.12–0.165%** (both oases 250–350k maximal — proportionate to Samarkand's booked 400–600k on comparable irrigated area — over a ~212M interpolated floor; separate basin, so NO Zarafshan registry conflict). GDP **0.14–0.23%** (×1.2–1.4: leading-principality seat + Sogdian trade share argued).
+**CONSENSUS:** ~0.055–0.08% then; today pop 3.5M/8.1B = 0.043%, GDP ~0.005% market / ~0.012% PPP — lawyered to **0.015–0.02%** by valuing its ~1–1.5% of world gas output (Shurtan + Kokdumalak, the bulk of Uzbek gas) at world rather than subsidized domestic prices, per Ruling B. **DELTA ≈ 2.5–3×.**
+**BAND: 10** (lawyered — population alone clears the bar; consensus Band 9).
+**Veto notes:** Timur's 1336 birth at Khoja Ilgar banned (event-fame; Ak-Saray and the Kesh building program count instead, window 8 runs 0.06–0.11% GDP at the plague trough — second place); "Sogdian Rock in the Kesh mountains" killed as contested geography (Baysun claim belongs to Surkhandarya); al-Muqanna's revolt banned as event.
+**Qualitative:** Mind **6–7** — Nasaf's al-Nasafi creed (al-'Aqa'id al-Nasafiyya), a standard madrasa text across Sunni Islam for centuries, plus the Maturidi theologians of Nasaf. Strategy **5–6** (gas belt).
+**Anchors:** above Gela c. 490 BCE (0.138) at pop; GDP top sits with Stockholm 1965–90 (0.23) and Thessaloniki 300–600 (0.23) — ledger rank ~#61–63.
+**Registry booking:** Kashkadarya basin is self-contained; no shared-basin bookings created.
+**Flags:** the 7th-c. seniority claim is real but brief (decades) — duration noted in metadata; gas-era lawyering capped by honest field-share accounting.
