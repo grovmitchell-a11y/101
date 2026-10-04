@@ -146,3 +146,17 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Krasnoyarsk 1975–88 (0.057); below Londinium c. AD 100–200 (0.055)/Leiden 1665 (0.056) at pop — GDP top sits with Odesa 1900–13 (0.068).
 **Registry booking:** Ustrushana aggregate — Jizzakh UZ 35%, Sughd TJ (Bunjikat/Shahristan) 50–55%, Samarkand-side fringe ≤10%.
 **Flags:** numerator rests on a fortress-count reading of the geographers (Negmatov's school runs lower); single-window dominance, low ambiguity.
+
+---
+
+## UNIT 007 — SAMARKAND VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** middle Zarafshan valley (~16,770 km²), city INCLUDED (no separate ADM1): Afrasiab/Marakanda (Sogdiana's capital from the 6th c. BCE), Islamic Samarkand, **Timur's imperial capital 1370–1405**, Ulugh Beg's observatory, plus Kattakurgan, Urgut, Ishtikhan, Kushaniya. Bukhara, Panjakent (TJ) and Kesh (Kashkadarya) are other polygons.
+**PEAK:** CONTESTED between Window 6, **c. 720 CE** (Sogdian trade-network headquarters at its height) and Window 8, **c. 1400–1405** (Timur's plunder-capital scored against the Black Death trough). Max taken per Ruling D.
+**LAWYERED:** pop **0.18–0.27%** (c. 720: oasis 400–600k — Dargom-canal command at high density, city 100–200k — over the 218M interpolated floor; Timurid 1400 runs 0.14–0.20% on the 350M trough). GDP **0.30–0.46%** (c. 720: ×2.0 under the quantified-commercial-documentation tier — named sources: the Sogdian Ancient Letters and the Turfan weighing-tax (scale-fee) receipts documenting Sogdian caravan commerce, network HQ argued to Samarkand per de la Vaissière; c. 1400: ×2.0 imperial-capital cap on a city physically stuffed with the loot and deported artisans of Delhi and Damascus, Clavijo eyewitness).
+**CONSENSUS:** pop ~0.10%, GDP ~0.12–0.15% at peak — **consensus is itself Band 10**, a gallery first. Today: pop 4.1M/8.1B = 0.051%; GDP ~0.006% market / ~0.012% PPP. **DELTA ≈ 3×.**
+**BAND: 10** (lawyered and consensus alike; clears the 0.09% bar by 3–5×).
+**Veto notes:** "500k–1M in the city at the 1220 Mongol sack" (Juvayni's 110k defenders extrapolated) capped by walled-area arithmetic to ≤300–400k with refugees — killed above that; Curtius' 120,000 Sogdians massacred retained only as a population floor argument for the Classical window (0.21–0.26%, third place); Ulugh Beg's observatory as Mind 8 considered and NOT killed by event-fame (a working institution, the Zij-i Sultani's star catalogue stood unmatched till Tycho) — **Mind 7–8**, Strategy 6.
+**Anchors:** above Sarai c. 1330–60 (0.27) at pop; GDP top sits between Hamburg 1965–90 (0.49) and Taras c. 340 BCE (0.45) — ledger rank ~#27.
+**Registry booking:** Zarafshan basin aggregates — Samarkand UZ (middle valley) 55–60%, Bukhara UZ (lower) 35–40%, Panjakent TJ (upper) ≤10%, at all pre-modern windows. Binds Unit "Bukhoro".
+**Flags:** two-window ambiguity reported; the 2.0 Sogdian multiplier imports Turfan-documented commerce to a Samarkand numerator — the boldest single move in the gallery so far, flagged as such.
