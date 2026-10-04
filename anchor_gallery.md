@@ -490,3 +490,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 | 12 | Ruweng AA | 5/4–5 | 0.0045–0.0052% | 0.0048–0.0065% | 2010–11 / c. 1850s |
 
 Country verdict: one Band 10 (Upper Nile, by 0.002, flagged), four 9s, four 8s, a 6 and a 5. Eleven of twelve units peak between 1690 and 1877 — the aggregate lawyered share of the territory c. 1860 runs ~0.35–0.5% of humanity against ~0.15% today: **South Sudan's share of the world has fallen by roughly two-thirds since Schweinfurth walked it**, the only country in the gallery whose every curve points down. Its compensating export, the gallery rules for the record, is anthropology's entire core syllabus (Azande oracles, Nuer lineages, Shilluk kingship, Anuak nobility — four canonical cases from one queue).
+
+---
+
+## UNIT 027 — ABYEI ADMINISTRATIVE AREA (SS/SD contested) · scored 2026-10-04 · referee's completion unit
+
+**Polygon:** the Abyei box as the 2009 PCA award drew it (~10,546 km²) — Ngok Dinka homeland and Misseriya dry-season grazing; the Diffra field inside, **Heglig excised by the ruling and therefore outside**. Scored because the commissioner's queue named every other unit on the map; flagged as jointly claimed, administered by neither country well.
+**PEAK:** Window 11, **c. 1850s** (the Ngok paramountcy's brokerage age between the Dinka world and the North). **WINNING PATHWAY:** population.
+**LAWYERED:** pop **0.005–0.0086%** (Ngok + seasonal presence 60–100k / 1.16B floor). GDP **0.004–0.0086%** (×0.8–1.0; the brokerage chiefdom argued to parity's top — the Ngok chiefs ran the only functioning Dinka–Baggara interface, but a toll on peace is not a toll on trade).
+**CONSENSUS:** ~0.003–0.004% then; today pop ~150–200k/8.2B = 0.002%, GDP ~0.00014% (Diffra's trickle). **DELTA ≈ 2×.**
+**BAND: 6** (lawyered, top-of-range; consensus Band 5). Ties Pibor at the gallery's lower edge.
+**Veto notes:** pre-2009 "Abyei" oil claims killed — the modern polygon is the PCA box, and Heglig's barrels died with the award (same blade as Unity's); Francis Deng's scholarship and Deng Majok's statesmanship are person-fame (banned), though the paramountcy ITSELF is the structural claim; the 2011 referendum-that-never-was is a non-event in both senses.
+**Qualitative:** Strategy **3–4** (the box is a named hinge of two sovereignties and one pastoral calendar — consequential locally, invisible globally). Mind 2–3 (the Ngok brokerage tradition).
+**Anchors:** Pibor's twin at the floor.
+**Registry:** Ngok wholly in-box; Misseriya seasonal mass NOT counted (resident rule — a dry-season presence is not a population).
+**Flags:** sovereignty unresolved — entered under SS per the commissioner's country heading, annotated as contested; with this, every polygon of South Sudanese-claimed territory is scored. **COUNTRY 2 TERRITORIALLY EXHAUSTED (13/13 including the bonus box).**
