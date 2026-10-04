@@ -91,3 +91,17 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Kairouan c. 1000 (0.19); below Fustat 969–1168 (0.26) at pop, brushing it at GDP top.
 **Registry booking:** Tashkent oasis (Chach+Ilaq) medieval aggregate — Region 75–80%, City 20–25% (Binkath). Binds Unit "Tashkent City".
 **Flags:** ambiguity low (window 7 dominates all others by ≥2×); GDP top (0.33%) is the most aggressive number in the gallery so far — survives only because the geographers are innocent and the dirham corpus is real.
+
+---
+
+## UNIT 003 — NAMANGAN VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** northern rim of the Fergana Valley (~7,440 km²): **Akhsikath/Akhsikent** (medieval capital of Fergana, Turakurgan district), Kasan (pre-Islamic seat), Pap (Bab), Chust (type site of the Chust culture, the valley's first farmers), Namangan city (Akhsikath's successor after the 1620s earthquake).
+**PEAK:** Window 7, c. 1000–1020 CE. **WINNING PATHWAY:** GDP via capital multiplier.
+**LAWYERED:** pop **0.07–0.09%** (valley construction 0.95–1.2M × registry cap 20% = 190–240k / 265M floor). GDP **0.09–0.145%** (Akhsikath as provincial capital of Farghana: "regional commercial/administrative center" tier at 1.2–1.6, top of tier argued on capital status + north-bank Syr Darya crossings).
+**CONSENSUS:** ~0.04% at peak (≈ today's 3.0M/8.1B = 0.037%; GDP today ~0.004% market / ~0.009% PPP). **DELTA ≈ 3×.**
+**BAND: 10** (lawyered, top-of-range per Ruling I — the weakest 10 in the gallery: one notch of referee hostility on the multiplier drops it to 9. Consensus Band 8.)
+**Veto notes:** "Akhsikath 100k+" as standalone city killed (shahristan + rabad area vs attested densities caps it well below); Chust-culture window 3 candidacy killed (high-end equivalence still ~0.02–0.03%).
+**Anchors:** above Leontopolis 818–720 BCE (0.089); below Narbo Martius c. AD 50–100 (0.20) — at GDP top, brushing Budapest 1925–38 (0.20).
+**Registry booking:** Namangan UZ consumes its FULL ≤20% valley cap at c. 1000. Fergana 30–35 + Namangan 20 booked → Andijan ≤30, non-UZ ≤15–20 remain.
+**Flags:** window-7 monoculture forming across valley units (same florescence carries all three) — correlated-peak risk, not double count, since allocations sum ≤100%.
