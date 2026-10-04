@@ -132,3 +132,17 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Veto notes:** any pre-1890 window killed by hydrology (no water, no people — nomad winter pasture only, ≤ a few thousand); "Timurid caravan tolls" killed (route taxed at its endpoints, which are other polygons).
 **Anchors:** above Novy Urengoy 1983–2010 (ledger 0.12 is GDP-dollar lawyering of a similar genre, but on population Sirdaryo sits far below every ledger entry); below Hamburg 1965–90 in kind. Nearest true peers are off-ledger: a mid-size US farm county with a power plant.
 **Flags:** single-window unit; Aral-disaster complicity noted but not scored (no negative scoring in rubric); double-count risk nil.
+
+---
+
+## UNIT 006 — JIZZAKH VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** ~21,210 km² between Samarkand and the Hungry Steppe: Dizak (Jizzakh), **Zamin (Zaamin)** and the western lowland districts of medieval **Ustrushana** (capital Bunjikat is in Tajik Sughd — not ours), the Sanzar corridor with **Timur's Gates** (Ulugh Beg's 1425 inscription), Nuratau fringe, Forish/Aydarkul.
+**PEAK:** Window 7, c. 1000 CE. **WINNING PATHWAY:** GDP.
+**LAWYERED:** pop **0.04–0.053%** (Ustrushana at its maximal "hundreds of fortresses" reading, 300–400k principality-wide, western share 35% in-polygon / 265M floor). GDP **0.05–0.069%** (×1.2–1.3: Zamin and Dizak as market/transit towns on the Khurasan road where it forks for Fergana).
+**CONSENSUS:** ~0.02% then; today pop 1.5M/8.1B = 0.0185%, GDP ~0.002% market / ~0.0045% PPP. **DELTA ≈ 3×.**
+**BAND: 9** (lawyered; consensus Band 7). No path to 10: even a hostile-to-us 1.6 multiplier leaves 0.085%, and 1.6 is indefensible for Zamin.
+**Veto notes:** claiming Bunjikat's capital mass killed (wrong polygon — Sughd TJ); Rashidov's birth and the 1866 battle banned (event-fame); Timur's Gates as Strategy 8 killed — a real chokepoint but with a known bypass across the steppe, pegs at 5–6.
+**Anchors:** above Krasnoyarsk 1975–88 (0.057); below Londinium c. AD 100–200 (0.055)/Leiden 1665 (0.056) at pop — GDP top sits with Odesa 1900–13 (0.068).
+**Registry booking:** Ustrushana aggregate — Jizzakh UZ 35%, Sughd TJ (Bunjikat/Shahristan) 50–55%, Samarkand-side fringe ≤10%.
+**Flags:** numerator rests on a fortress-count reading of the geographers (Negmatov's school runs lower); single-window dominance, low ambiguity.
