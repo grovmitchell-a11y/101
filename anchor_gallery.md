@@ -426,3 +426,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** below Tlemcen c. 1330 (0.112)? No — far below: top sits at the ledger's absolute floor genre, beside Utrecht (0.048) ÷ 2. Off-ledger; peers are Sahel pastoral provinces.
 **Registry:** GPOC fields 40/60 Unity/Ruweng booked — BINDS Unit "Ruweng"; western-Nuer sections wholly in-polygon.
 **Flags:** boundary-kiss band (0.028 exactly) granted on house precedent; the unit's modern fame (oil war) and its peak (cattle) do not touch.
+
+---
+
+## UNIT 024 — RUWENG ADMINISTRATIVE AREA (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** Pariang + Abiemnhom (~12,000 km²) — the Ruweng (Panaru) Dinka enclave north of the Bahr el Ghazal river, carved out in 2020 around the SS-side Blocks 1/2/4 oilfields (60% GPOC booking inherited from Unit 023: Unity field, Toma South, Panakuach).
+**PEAK:** split personality — pop peaks Window 11 (**c. 1850s**), GDP peaks Window 16 (**2010–11**, ~90k bbl/d in-polygon at $110 Brent). **WINNING PATHWAY:** population, by a sliver.
+**LAWYERED:** pop **0.0048–0.0065%** (58–78k backcast / 1.16B floor). GDP **0.0045–0.0052%** (Ruling B extraction at world prices; the only SS unit whose modern figure nearly matches its pre-colonial one).
+**CONSENSUS:** ~0.003–0.004% either era; today pop ~220k/8.2B = 0.0027%, GDP ~0.0008% with restarted crude. **DELTA ≈ 1.7×.**
+**BAND: 5** (lawyered; consensus Band 4–5). **New gallery minimum** — below Pibor. No stacking reaches 0.007: the referee checked, twice.
+**Veto notes:** Heglig stays killed (over the adjudicated line); claimed-but-unheld Panaru lands are not the polygon; 70% field-share attempt rejected — the Unit-023 booking binds.
+**Qualitative:** Strategy **4** (the enclave holds the state's largest single revenue tap — a nameable fiscal chokepoint at national scale, invisible at world scale). Mind 2.
+**Anchors:** off-ledger floor; nearest peer in the gallery is Pibor (Band 6) and it does not reach it.
+**Registry:** GPOC 60% consumed; bookings for Country 2 now all closed except EES/WBeG bases.
+**Flags:** the smallest, newest, most single-purpose polygon yet scored — a tax district with a people attached, said with respect: the Ruweng Dinka held that ground through two wars aimed at exactly what is under it.
