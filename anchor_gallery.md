@@ -220,3 +220,18 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Khartoum 2000–23 (0.08)? No — at pop it sits far lower: above Middlesbrough 1900–13 (0.08) is wrong too; placed between ledger tail entries: above Utrecht 1986–2010 (0.048) at GDP top, below Charleroi c. 1960 (0.06). Effective rank ~#268–270 (would extend the ledger's floor).
 **Registry adjustment:** Zarafshan basin re-split to admit the corridor: Samarkand 52–55 / Bukhara 32–35 / **Navoi 5–8** / Panjakent ≤8. Bukhara's booking narrows accordingly.
 **Flags:** modern extraction is strategically loud but dollar-quiet (gold ≈ 0.24% of world GDP as an entire industry); the unit's fame-to-share ratio is the gallery's highest.
+
+---
+
+## UNIT 012 — KHOREZM VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** the left-bank Khorezm oasis (~6,050 km²): **Khiva** (Itchan Kala, capital of the Khanate of Khiva), **Hazarasp** (the ancient left-bank fortress), Khanka, New Urgench (the 17th-c. refoundation after the river abandoned Gurganj — old Gurganj itself is Turkmenistan's, Kath and Toprak-Kala are Karakalpakstan's; this polygon is the oasis's third slice).
+**PEAK:** CONTESTED — Window 4/5, c. 200–250 CE vs Window 7, **c. 1215** — same two Khorezmian apogees as Unit 010, scored at this polygon's registry share (25–30% both eras).
+**LAWYERED:** pop **0.09–0.16%** (oasis 500k–1M antique / 1.2–1.7M pre-Mongol × 25–30%, floors 190M / 332M). GDP **0.11–0.20%** (×1.2–1.3 — agrarian-commercial left bank; the royal capitals sat in the other slices, so no capital tier claimable).
+**CONSENSUS:** ~0.04–0.06% at either peak; today pop 2.0M/8.1B = 0.0243%, GDP ~0.0027% market / ~0.0055% PPP. **DELTA ≈ 3×.**
+**BAND: 10** (lawyered; consensus Band 8–9).
+**Veto notes:** **al-Khwarizmi as Mind 9 killed** — the nisba is not a residence, the Algebra was written in Baghdad, and the birthplace cannot be placed even to the correct bank of the oasis (same ruling as al-Farghani and al-Biruni's births); the Ma'mun Academy killed for polygon (Gurganj = Turkmenistan); Khanate-of-Khiva window (c. 1850: pop 0.026–0.043%, GDP 0.04–0.065% with a 1.5 capital-and-slave-market multiplier on Muravyov's documented 30k captives) — real but third place, and the gallery notes the claim with distaste.
+**Qualitative:** Mind 4–5 (Itchan Kala as the pickled khanate capital; the oasis's scholarly fame belongs to its other two slices). Strategy 4–5.
+**Anchors:** above Gela c. 490 BCE (0.138) at pop top; GDP top ties Budapest 1925–38 / Narbo Martius (0.20). Ledger rank ~#68–71.
+**Registry:** consumes the Khorezm-oasis 25–30% booked in Unit 010; oasis now fully allocated (Karakalpakstan + Khorezm UZ + Gurganj TM = 100%).
+**Flags:** the polygon's famous asset (Khiva) is NOT its peak asset (the anonymous medieval canal belt is); fame-era share is 3× lower than its unglamorous antique share.
