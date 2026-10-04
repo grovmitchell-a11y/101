@@ -456,3 +456,37 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** between Bilbao 1965–92 (0.065)? No — lower: top (0.038) sits beside Addis Ababa 2018–24 (0.07)÷2; formally between the ledger floor and Pibor's ceiling peers — rank off-ledger, Band-8 by arithmetic alone.
 **Registry:** consumes WBeG's 15% BeG booking — **Bahr el Ghazal aggregate fully retired** (35+25+25+15 = 100).
 **Flags:** the multiplier rests on the morally worst commerce in the gallery; the consensus column and this flag are the honesty. Deim Zubeir's imperial moment is real, brief, and documented — the rules yield Band 8 and the referee signs it without pride.
+
+---
+
+## UNIT 026 — EASTERN EQUATORIA (SS) · scored 2026-10-04 · compact entry · COUNTRY 2 COMPLETE
+
+**Polygon:** ~73,500 km² from the Imatongs to the Kapoeta plains: Latuka (Otuho) rain-kingdom country with its great fortified towns (**Samuel Baker, 1863, counted ~3,000 houses at Tarrangolle alone** — primary, innocent), Toposa herds, Didinga/Boya highlands, the SS-side Acholi corridor (Magwi), Torit. Ilemi Triangle claimed, empty, and excluded.
+**PEAK:** Window 11, **c. 1850–60** (pre-raider maximum). **WINNING PATHWAY:** population.
+**LAWYERED:** pop **0.042–0.055%** (Baker's town-counts anchoring a 500–666k proportional backcast / 1.2B floor). GDP **0.033–0.055%** (×0.8–1.0; Latuka ironworking argued to parity's top).
+**CONSENSUS:** ~0.02–0.025% then; today pop ~1.3M/8.2B = 0.016%, GDP ~0.0003%. **DELTA ≈ 2.3×.**
+**BAND: 9** (lawyered; consensus Band 7).
+**Veto notes:** the 1955 **Torit Mutiny** banned (event — the spark of the first civil war scores nothing, per the Fashoda principle); Kapoeta artisanal gold too small for Ruling B; rain-kingship is chieftaincy, not the capital tier.
+**Qualitative:** Mind **3–4** (the Otuho rainmaker polities; Baker's testimony as the queue's best primary snapshot of intact Equatorian urbanism). Strategy **3**.
+**Anchors:** beside Central Equatoria in every column — the Equatorias close as a matched set. Ledger rank ~#253–260 at top.
+**Registry:** Equatoria bases closed; Acholi split booked SS ≤15% / Uganda ≥85%.
+
+---
+
+# COUNTRY 2 LEADERBOARD — SOUTH SUDAN COMPLETE (12/12 units)
+| # | Unit | Band (lawyered/consensus) | Peak GDP | Peak pop | Peak moment |
+|---|---|---|---|---|---|
+| 1 | Upper Nile | 10/8 | 0.049–0.092% | 0.041–0.066% | c. 1690–1760 (Shilluk hegemony) |
+| 2 | Jonglei | 9/8 | 0.04–0.071% | 0.05–0.071% | c. 1850–70 |
+| 3 | W. Equatoria | 9/7 | 0.042–0.064% | 0.042–0.058% | c. 1860–70 (Gbudwe) |
+| 4 | Warrap | 9/7 | 0.031–0.06% | 0.039–0.06% | c. 1850–60 |
+| 5 | E. Equatoria | 9/7 | 0.033–0.055% | 0.042–0.055% | c. 1850–60 |
+| 6 | C. Equatoria | 9/7–8 | 0.03–0.055% | 0.036–0.055% | c. 1840 |
+| 7 | N. Bahr el Ghazal | 8/7 | 0.026–0.043% | 0.032–0.043% | c. 1850–60 |
+| 8 | Lakes | 8/7 | 0.026–0.043% | 0.032–0.043% | c. 1850–60 |
+| 9 | W. Bahr el Ghazal | 8/7 | 0.022–0.038% | 0.019–0.025% | 1874–77 (Deim Zubeir) / 1856 |
+| 10 | Unity | 8/7 | 0.017–0.028% | 0.021–0.028% | c. 1850–70 |
+| 11 | Pibor AA | 6/5 | 0.004–0.0086% | 0.005–0.0086% | c. 1850s |
+| 12 | Ruweng AA | 5/4–5 | 0.0045–0.0052% | 0.0048–0.0065% | 2010–11 / c. 1850s |
+
+Country verdict: one Band 10 (Upper Nile, by 0.002, flagged), four 9s, four 8s, a 6 and a 5. Eleven of twelve units peak between 1690 and 1877 — the aggregate lawyered share of the territory c. 1860 runs ~0.35–0.5% of humanity against ~0.15% today: **South Sudan's share of the world has fallen by roughly two-thirds since Schweinfurth walked it**, the only country in the gallery whose every curve points down. Its compensating export, the gallery rules for the record, is anthropology's entire core syllabus (Azande oracles, Nuer lineages, Shilluk kingship, Anuak nobility — four canonical cases from one queue).
