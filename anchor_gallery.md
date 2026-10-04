@@ -205,3 +205,18 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Kuwait City 1974–82 (0.25) at GDP top; below Fustat 969–1168 (0.26) at pop top — ledger rank ~#48–53.
 **Registry booking:** **Khorezm oasis** — Karakalpakstan 55–60% antique / 45–50% medieval; Khorezm UZ (Khiva side) 25–30% both; Gurganj TM 15–25% medieval. Binds Unit "Khorezm".
 **Flags:** the one unit whose HONEST share has collapsed ~4× from its ancient consensus (Aral catastrophe) — the lawyered/consensus gap is smaller than the past/present gap; two-window ambiguity reported.
+
+---
+
+## UNIT 011 — NAVOI VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** ~110,990 km² of Kyzylkum desert plus the Zarafshan corridor fringe: **Karmana** (medieval Karmaniya), **Nur/Nurata** (Narshakhi's ribat-and-pilgrimage town), the **Rabat-i Malik** caravanserai (11th c., the Qarakhanid showpiece on the Samarkand–Bukhara road), Sarmishsay petroglyphs — and the modern jackpot: **Muruntau**, the world's largest open-pit gold mine (~2% of world gold output), and **Uchkuduk**, the Soviet arsenal's Kyzylkum uranium complex (NMMC, f. 1958).
+**PEAK:** Window 7, **c. 1000–1050** (Qarakhanid corridor). **WINNING PATHWAY:** GDP — but by a nose over its own present.
+**LAWYERED:** pop **0.017–0.032%** (Karmana + Nur + corridor villages + equivalence-rule Kyzylkum nomads, 45–85k / 265M floor). GDP **0.02–0.045%** (×1.2–1.4: premium caravan traffic evidenced by Rabat-i Malik itself). Contemporary runner-up: GDP **0.018–0.020% PPP** (GRP at ~9% of Uzbekistan — highest per-capita region — with gold and uranium at world prices per Ruling B; market pathway 0.010%).
+**CONSENSUS:** medieval ~0.012%; today pop 1.1M/8.1B = 0.0136%, GDP ~0.02% PPP — **the consensus all-time peak is NOW, via gold**. **DELTA ≈ 2–2.5×.**
+**BAND: 8** (lawyered; consensus Band 7). First unit to miss Band 9 — and honestly: the stacked maximum reaches 0.045–0.048%, two thousandths short of the 0.05 line. The referee declines to manufacture the gap.
+**Veto notes:** Dabusiya EXCLUDED — the site near Ziyodin most plausibly falls just inside Samarkand region (border-contested attribution, booked against us per the no-double-count rule); "value Muruntau's cumulative output" killed (annual flows only — the Potosí rule prices production, not patrimony); Navoi-the-poet contributes only the region's NAME (he was born in Herat) — zero score, recorded to forestall future lawyering.
+**Qualitative:** Strategy **7** (nameable: Uchkuduk uranium feeding the Soviet weapons complex from 1958; Muruntau as the single largest gold pit on earth). Mind 3.
+**Anchors:** above Khartoum 2000–23 (0.08)? No — at pop it sits far lower: above Middlesbrough 1900–13 (0.08) is wrong too; placed between ledger tail entries: above Utrecht 1986–2010 (0.048) at GDP top, below Charleroi c. 1960 (0.06). Effective rank ~#268–270 (would extend the ledger's floor).
+**Registry adjustment:** Zarafshan basin re-split to admit the corridor: Samarkand 52–55 / Bukhara 32–35 / **Navoi 5–8** / Panjakent ≤8. Bukhara's booking narrows accordingly.
+**Flags:** modern extraction is strategically loud but dollar-quiet (gold ≈ 0.24% of world GDP as an entire industry); the unit's fame-to-share ratio is the gallery's highest.
