@@ -366,3 +366,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** above Leiden c. 1665 (0.056) is a hair too high — placed between Londinium (0.055) and Sofia 1965–89 (0.055) at top, Caffa c. 1400 (0.062) above. Ledger rank ~#253–260.
 **Registry:** Equatoria peoples scored on own bases (no shared aggregate with WES/EES beyond the Bari-belt boundary with EES: CES takes the west-bank and Juba reach, EES the Torit–Magwi side).
 **Flags:** the unit's three capital eras (Egyptian, Leopoldine, national) all POST-date its demographic peak — centrality arrived after the people left; flagged as the gallery's neatest inversion.
+
+---
+
+## UNIT 020 — UPPER NILE (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** ~77,300 km² on the White Nile: the ENTIRE **Shilluk (Chollo) Kingdom** — the most centralized pre-colonial state between Ethiopia and the Azande — with the Reth's capital at **Fashoda (Kodok)**; Malakal (province and state capital); Padang Dinka and Nuer fringes; the **Paloch/Adar oilfields** (Dar blend, Blocks 3/7), South Sudan's fiscal lifeline since 2011.
+**PEAK:** Window 10, **c. 1690–1760** — the Shilluk river hegemony: the Reth's flotillas controlling ~500 km of the White Nile, tolling and raiding to the Funj frontier. **WINNING PATHWAY:** GDP.
+**LAWYERED:** pop **0.041–0.066%** (kingdom-plus-subjects 250–400k — the 400k pre-collapse figure is attributed in the Shilluk demographic literature, FLAGGED for audit — over **M&J's own cited 610M at 1700**, taken below the interpolated floor per the citation clause). GDP **0.049–0.092%** (×1.2–1.4: a real tribute-and-toll state, the "argued" commercial tier's honest middle).
+**CONSENSUS:** ~0.03–0.04% then; today pop ~1.4M/8.2B = 0.017%; GDP peak-modern 0.0137% (2011: ~250k bbl/d of Dar crude at world prices per Ruling B — the best MODERN GDP figure in South Sudan). **DELTA ≈ 2.3×.**
+**BAND: 10** (lawyered, by 0.002 — the narrowest 10 in the gallery; one notch of hostility anywhere drops it to 9. Consensus Band 8.) Granted per Ruling I and the Tashkent-City precedent: published-grounded components stacked at their tops.
+**Veto notes:** **the Fashoda Incident (1898) banned with relish** — the polygon's most famous moment is an event where nothing happened, and event-fame is barred anyway; "Shilluk raided Khartoum" (they raided the future site's vicinity before Khartoum existed) kept only as color; oil CUMULATIVE revenue killed (flows only).
+**Qualitative:** Strategy **5–6** (17th-c. river hegemony; Paloch as the state treasury). Mind **5–6** — the Reth's divine kingship is anthropology's textbook case (Frazer's Golden Bough leaned on Shilluk regicide; Evans-Pritchard's 1948 Frazer Lecture — the polygon furnishes the discipline's canon twice, after Zandeland's oracles).
+**Anchors:** above Middlesbrough 1900–13 (0.08) at GDP top; below Leontopolis (0.089)… formally straddling it: the top (0.092) sits between Leontopolis and Bordeaux c. 100–200 (0.093). Ledger rank ~#172–177.
+**Registry:** Shilluk kingdom wholly in-polygon (no sharing); Padang Dinka split with Jonglei/Ruweng booked at UN ≤15% of their aggregate.
+**Flags:** the 400k numerator is the audit's first FLAGGED-FOR-VERIFICATION entry; the Band-10 grant dissolves if it falls.
