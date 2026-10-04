@@ -175,3 +175,18 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Gela c. 490 BCE (0.138) at pop; GDP top sits with Stockholm 1965–90 (0.23) and Thessaloniki 300–600 (0.23) — ledger rank ~#61–63.
 **Registry booking:** Kashkadarya basin is self-contained; no shared-basin bookings created.
 **Flags:** the 7th-c. seniority claim is real but brief (decades) — duration noted in metadata; gas-era lawyering capped by honest field-share accounting.
+
+---
+
+## UNIT 009 — SURKHANDARYA VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** northern Bactria (~20,100 km²): **Old Termez** (Tarmita, the Oxus crossing; Kara-Tepe and Fayaz-Tepe monasteries — Buddhism's beachhead north of the river), **Dalverzintepe and Khalchayan** (Pugachenkova's early Kushan royal seat with its dynastic sculpture), Kampyrtepe (Rtveladze's Alexandria-on-the-Oxus), Zartepe, Airtam; Islamic Tirmidh; the Soviet Friendship Bridge gate to Afghanistan.
+**PEAK:** Window 4, **c. 100–150 CE** — the Kushan cradle at the empire's rise. **WINNING PATHWAY:** GDP.
+**LAWYERED:** pop **0.145–0.173%** (Surkhan–Sherabad plain 250–300k maximal on the attested Kushan canal commands and the Soviet survey density, over a 173–181M interpolated floor). GDP **0.23–0.31%** (×1.6–1.8: the "imperial capital" tier argued on Pugachenkova's credentialed identification of Dalverzintepe as the early Kushan capital, plus the Termez Oxus-crossing tolls on the Bactria–Sogdiana trunk road).
+**CONSENSUS:** pop ~0.06–0.09%, GDP ~0.08–0.11% then (consensus brushes Band 10 on its own); today pop 2.8M/8.1B = 0.035%, GDP ~0.0035% market / ~0.008% PPP. **DELTA ≈ 3×.**
+**BAND: 10** (lawyered; consensus Band 9 at the 10 line). Gallery #2 on GDP behind Samarkand.
+**Veto notes:** "Kushan EMPIRE mass scored to the cradle" killed outright (the empire's 30–50M lived mostly in India — polygon residents only); al-Tirmidhi's birth at Bugh banned as event, but NOT his workshop — the **Jami' at-Tirmidhi, one of the six canonical Sunni hadith collections, was compiled in-polygon c. 870–890**; "Sogdian Rock at Baysun" admitted as contested, not scored.
+**Qualitative:** **Mind 8** (nameable: a canonical book of the Six for the world's second religion, plus the Termez monasteries as Buddhism's transmission staging post toward the Tarim and China). Strategy 5–6 (the 1979–89 Soviet logistics gate).
+**Anchors:** above Stockholm 1965–90 (0.23); below Kuwait City 1974–82 (0.25) — GDP top brushes Lugdunum c. 150–190 (0.25). Ledger rank ~#54–57.
+**Registry booking:** north-Bactrian plain is self-contained vs other UZ units (Balkh side of the Oxus is Afghan ADM, out of queue); no bookings created.
+**Flags:** capital-tier multiplier rests on one excavator's thesis (credentialed, contested); Buddhist-pilgrimage economy argued qualitatively, not monetized — restraint noted for the record.
