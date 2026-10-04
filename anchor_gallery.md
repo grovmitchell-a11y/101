@@ -351,3 +351,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** above Krasnoyarsk 1975–88 (0.057); below Charleroi c. 1960 (0.06) at pop, Odesa 1900–13 (0.068) at GDP top. Ledger rank ~#245–252.
 **Registry:** Zandeland aggregate — WES-SS 35–40 / DRC-Uele 45–50 / CAR 15–20.
 **Flags:** the 2M old-print figure is weak even by house standards (flagged); the sleeping-sickness backcast is the stronger leg and both legs point to the same range.
+
+---
+
+## UNIT 019 — CENTRAL EQUATORIA (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** the Bari-speaking Nile belt: **Juba** (national capital), **Gondokoro** (head of White Nile navigation, the ivory-and-slave terminus where Speke met Baker), **Lado** (capital of Egyptian Equatoria under Gordon and Emin Pasha, then of Leopold II's personal Lado Enclave, 1894–1910), Rejaf, Yei, Terekeka.
+**PEAK:** Window 11, **c. 1840** — the dense riverine Bari maximum on the eve of the Khartoum traders' arrival. **WINNING PATHWAY:** population.
+**LAWYERED:** pop **0.036–0.055%** (catastrophe backcast: the documented 1850s–80s devastation of the Bari belt justifies 400–600k against the first colonial counts / 1.10B floor). GDP **0.03–0.055%** (×0.8–1.0; the 1874–89 provincial-capital-and-ivory era — Emin's famous 75-tonne ivory store — runs second at 0.03–0.042% despite its 1.2–1.4 multiplier, because the population it taxed was already collapsing).
+**CONSENSUS:** ~0.021–0.029% then; today pop 1.8–2.2M/8.1B = 0.022–0.027%, GDP ~0.0027% PPP — the national-capital present nearly TIES the precolonial peak on honest numbers. **DELTA ≈ 2×.**
+**BAND: 9** (lawyered; consensus Band 7–8).
+**Veto notes:** "Juba metro 1M+" boosterism killed (no census; UN-OCHA range used); Speke–Baker meeting and the 1947 Juba Conference banned (events); Leopold's enclave scores curiosity, not centrality (a king's private hunting lease moves no share).
+**Qualitative:** Strategy **5** (nameable: Gondokoro–Rejaf as the absolute terminus of the White Nile steamer system — the chokepoint of equatorial Africa's 19th-c. river trade). Mind **4–5** (nameable and delightful: **Juba Arabic**, the creole born in the Equatoria garrisons c. 1870s–80s, today the lingua franca of millions).
+**Anchors:** above Leiden c. 1665 (0.056) is a hair too high — placed between Londinium (0.055) and Sofia 1965–89 (0.055) at top, Caffa c. 1400 (0.062) above. Ledger rank ~#253–260.
+**Registry:** Equatoria peoples scored on own bases (no shared aggregate with WES/EES beyond the Bari-belt boundary with EES: CES takes the west-bank and Juba reach, EES the Torit–Magwi side).
+**Flags:** the unit's three capital eras (Egyptian, Leopoldine, national) all POST-date its demographic peak — centrality arrived after the people left; flagged as the gallery's neatest inversion.
