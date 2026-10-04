@@ -411,3 +411,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** above Porto 1975–95 / Basel (0.07) at top; below Messina c. 70 BCE (0.089). Ledger rank ~#210–218.
 **Registry:** Lou/Gawaar Nuer wholly in-polygon; Padang-Dinka fringe ≤15% booked vs Upper Nile (per Unit 020); Bor-Dinka wholly in-polygon.
 **Flags:** backcast-grade numbers throughout; the polygon's two famous artifacts (canal, mound) contribute qualitative color only.
+
+---
+
+## UNIT 023 — UNITY (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** post-2020 Unity (Ruweng AA excluded), ~30,000+ km²: Bentiu/Rubkona, Leer, Koch, Mayendit, Mayom — the **western Nuer homeland**, the cradle the 19th-c. Nuer expansion launched from; Block 5A (Thar Jath) oil; a 40% share of the GPOC border fields booked here (60% to Ruweng, which was created around them).
+**PEAK:** Window 11, **c. 1850–70** (toich maximum at the expansion's launch). **WINNING PATHWAY:** population.
+**LAWYERED:** pop **0.021–0.028%** (proportional catastrophe backcast from the 2008 polygon base, 256–342k / 1.2B floor). GDP **0.017–0.028%** (×0.8–1.0); the oil era peaks SECOND — 2010–11 at ~0.006% (≈100k bbl/d in-polygon at world prices, Ruling B), the war shut it before it could matter.
+**CONSENSUS:** ~0.014–0.018% then; today pop ~800k/8.2B = 0.0098% (lawyered 0.011%), GDP ~0.001–0.002% with restarted crude. **DELTA ≈ 1.8×.**
+**BAND: 8** (lawyered — lands exactly ON the 0.028 boundary and takes it by Ruling I's inclusive edge; consensus Band 7).
+**Veto notes:** Riek Machar's Leer origins banned (person-fame); the 1997–2003 oil-road clearances are atrocity, not economy — the barrels count, the method is recorded with contempt; Heglig claimed-and-killed (post-2012 adjudication puts it over the line).
+**Qualitative:** Mind/Strategy **3–4** (Nuer-expansion cradle; the original 1978 Chevron discovery that named the state and bent two countries' history). 
+**Anchors:** below Tlemcen c. 1330 (0.112)? No — far below: top sits at the ledger's absolute floor genre, beside Utrecht (0.048) ÷ 2. Off-ledger; peers are Sahel pastoral provinces.
+**Registry:** GPOC fields 40/60 Unity/Ruweng booked — BINDS Unit "Ruweng"; western-Nuer sections wholly in-polygon.
+**Flags:** boundary-kiss band (0.028 exactly) granted on house precedent; the unit's modern fame (oil war) and its peak (cattle) do not touch.
