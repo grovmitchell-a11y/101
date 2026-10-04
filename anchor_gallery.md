@@ -235,3 +235,18 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Gela c. 490 BCE (0.138) at pop top; GDP top ties Budapest 1925–38 / Narbo Martius (0.20). Ledger rank ~#68–71.
 **Registry:** consumes the Khorezm-oasis 25–30% booked in Unit 010; oasis now fully allocated (Karakalpakstan + Khorezm UZ + Gurganj TM = 100%).
 **Flags:** the polygon's famous asset (Khiva) is NOT its peak asset (the anonymous medieval canal belt is); fame-era share is 3× lower than its unglamorous antique share.
+
+---
+
+## UNIT 013 — BUKHORO VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** the lower Zarafshan / Bukhara oasis (~40,320 km²): **Bukhara city** (Samanid imperial capital 892–999, "dome of Islam in the East"), **Paykend** (the pre-Islamic "city of merchants" whose loot staggered the Arabs in 706), Varakhsha, Gijduvan, Vabkent, **Qasr-i Arifan** (Bahauddin Naqshband's lodge and shrine), Afshana (Ibn Sina's village) — and **Gazli**, the Soviet super-giant gas field (c. 3% of world gas c. 1970, the Bukhara–Urals pipeline).
+**PEAK:** Window 6, **c. 975 CE** — the Samanid century at full flood. **WINNING PATHWAY:** GDP.
+**LAWYERED:** pop **0.185–0.23%** (era-skewed basin split per registry: Bukhara 40% of a 1.2–1.5M Zarafshan basin while it held the capital → 480–600k over a 260M interpolated floor; Narshakhi's housing-crisis testimony innocent, Chandler-school city rankings admissible). GDP **0.30–0.50%** (imperial-capital tier 1.6–2.0; the top argued past 2.0 via Ruling A on Noonan's quantified dirham-hoard corpus — the Samanid silver flood to the Baltic as documented commerce — flagged, capped at 0.50).
+**CONSENSUS:** pop ~0.10–0.12%, GDP ~0.15–0.18% — **consensus is Band 10 by itself** (second such unit after Samarkand). Today: pop 2.0M/8.1B = 0.0243%; GDP ~0.0045% market / ~0.010% PPP; the Gazli era peaked near 0.03%. **DELTA ≈ 2.5–3×.**
+**BAND: 10** — and at 0.50% top-of-range, **new gallery co-champion**, edging Samarkand's 0.46.
+**Veto notes:** Ibn Sina's BIRTH at Afshana banned — but his WORKSHOP counted: trained in the Samanid royal library, first treatises written in Bukhara before 999 (same clause as al-Tirmidhi); "Bukhara 500k city" killed by rabad-wall area × attested density (cap ~300k greater city); Shaybanid-capital window (0.11–0.15% GDP) third place, noted.
+**Qualitative:** **Mind 8** — nameable twice over: the **Naqshbandi order**, mother lodge in-polygon, politically decisive from Istanbul to Kashgar for five centuries; plus the formation of the Qanun's author and the Samanid library culture. Strategy 6 (Gazli).
+**Anchors:** above Roman Carthage c. 200–400 (0.50) at the very top; below Avaris c. 1650–1550 BCE (0.51). Ledger rank ~#24–26.
+**Registry:** era-skew applied — at 975: Samarkand 45 / Bukhara 40 / Navoi 7 / Panjakent 8 (sums 100; Samarkand's own peaks use its 52–55 at OTHER centuries — no window double-counts).
+**Flags:** the 2.0+ multiplier flirtation is flagged as the gallery's second-boldest move after Samarkand's Turfan import; duration metadata strong (the Samanid century is a full century, not a moment).
