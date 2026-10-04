@@ -396,3 +396,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** below every ledger entry (ledger floor 0.048); nearest peers are off-ledger empty quarters — a Saharan cercle, an Australian shire.
 **Registry:** Anuak split booked — Pochalla-SS ≤35%, Gambela-ET ≥65%; Murle wholly in-polygon.
 **Flags:** cleanest equivalence-rule unit in the queue (no print to stack); the score is small and honest and the referee has nothing to confess.
+
+---
+
+## UNIT 022 — JONGLEI (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** post-2014 Jonglei (GPAA excluded), ~82,000 km² of eastern Sudd and toich: Bor, Twic East, Duk, the Zaraf valley (Fangak), Lou and Gawaar Nuer country to Akobo; the abandoned **Jonglei Canal** cut and its rusting excavator; **Ngundeng's Mound** at Weideang.
+**PEAK:** Window 11, **c. 1850–70** — the toich maximum at the crest of the Nuer expansion (Kelly's "Nuer Conquest," the fastest documented tribal expansion in Africa). **WINNING PATHWAY:** population.
+**LAWYERED:** pop **0.05–0.071%** (600–850k by proportional catastrophe backcast from the 2008 polygon share of 1.14M — largest state base in SS — / 1.2B floor). GDP **0.04–0.071%** (×0.8–1.0 parity; the cattle-richest toich in the queue).
+**CONSENSUS:** ~0.027–0.035% then; today pop ~1.8M/8.1B = 0.022%, GDP ~0.0003% market. **DELTA ≈ 2×.**
+**BAND: 9** (lawyered; consensus Band 8).
+**Veto notes:** Garang's Wangkulei birth banned (person-fame); the Jonglei Canal scores as attempt, not asset (teak precedent: potential ≠ production — 240 of 360 km dug, zero bcm delivered); the 1991 Bor massacre is an event and a wound, not a share.
+**Qualitative:** Mind **5–6** — the queue's FOURTH anthropology-canon claim and its strongest: **"The Nuer" (1940)**, the most-taught ethnography in the discipline's history, fieldwork substantially in-polygon; plus the living Nuer prophetic tradition (Ngundeng's bieh, the repatriated dang, Johnson's "Nuer Prophets"). South Sudan's greatest export, the gallery now rules, is anthropology's syllabus. Strategy **4–5** (the canal as the Nile's great unfinished replumbing — Egypt's water politics still orbit it).
+**Anchors:** above Porto 1975–95 / Basel (0.07) at top; below Messina c. 70 BCE (0.089). Ledger rank ~#210–218.
+**Registry:** Lou/Gawaar Nuer wholly in-polygon; Padang-Dinka fringe ≤15% booked vs Upper Nile (per Unit 020); Bor-Dinka wholly in-polygon.
+**Flags:** backcast-grade numbers throughout; the polygon's two famous artifacts (canal, mound) contribute qualitative color only.
