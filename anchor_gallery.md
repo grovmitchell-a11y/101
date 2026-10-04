@@ -287,3 +287,22 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 | 14 | Sirdaryo | 7/6 | 0.02–0.024% | 0.011–0.012% | c. 1980 |
 
 Aggregate lawyered peak (NOT simultaneous — windows differ; sums shown for amusement only): the twelve pre-modern peaks draw on five distinct centuries; the c. 1000–1020 synchronized slice alone (Fergana+Tashkent+Namangan+Jizzakh+Navoi+Kashkadarya-residual+Bukhara-at-975 spillover) puts the territory of modern Uzbekistan near **1.3–1.8% of world GDP around the year 1000** — lawyered, vs a consensus ~0.6–0.8%. Eleven of fourteen units reach Band 10; the rubric's ladder confirms what the gallery suspected: Transoxania c. 1000 was briefly one of the heaviest county-scale clusters on the planet.
+
+---
+---
+
+# COUNTRY 2 — SOUTH SUDAN (10 states + 2 administrative areas; Abyei not in queue)
+House method for text-free societies, locked for this country: equivalence rule (high end of PUBLISHED ranges only — no conjured numbers), plus **catastrophe backcast**: where documented 19th-c. devastations (zariba slave-raiding, the 1888–92 Great Rinderpest, which killed ~90% of Nile-basin cattle) sit between a colonial headcount and the claimed moment, the pre-catastrophe population may be argued at up to 1.5–2× the first colonial figure. Black-Death-trough arbitrage WITHOUT published medieval ranges is disallowed (no range to take the high end of — the equivalence rule is not a licence to invent).
+**SS Registry:** Bahr el Ghazal 19th-c. aggregate split per 2008 census proportions — Warrap 35 / NBeG 25 / Lakes 25 / WBeG 15. Nilotic-cradle Mind claim shared across BeG+Jonglei units at ≤5 each.
+
+## UNIT 015 — WARRAP (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** Rek and Twic Dinka heartland (~45,000 km²): Kuajok, Gogrial, Tonj, Turalei. 28-state-era splits (2015–20) ignored as reverted; Abyei excluded. No city, no text, ever — the equivalence rule's test case.
+**PEAK:** Window 11, **c. 1850–60** — the agro-pastoral maximum on the eve of the zariba razzias. **WINNING PATHWAY:** population.
+**LAWYERED:** pop **0.039–0.06%** (Bahr el Ghazal at 1.5–2M via catastrophe backcast from the ~1M-scale early Anglo-Egyptian estimates, × Warrap's 35% share / 1.16B floor). GDP **0.031–0.06%** (×0.8–1.0: cattle-and-sorghum economy argued at parity — the toich floodplain pasture system is as capital-intensive as pastoralism gets).
+**CONSENSUS:** ~0.02–0.025% then; today pop ~1.4M/8.2B = 0.017% (lawyered 1.7M/8.1B = 0.021%), GDP ~0.0004% market / ~0.0006% PPP — among the smallest GDP shares the gallery will ever record. **DELTA ≈ 2.4×.**
+**BAND: 9** (lawyered; consensus Band 7).
+**Veto notes:** Black-Death-trough play at 1400 killed per the country preamble (would have manufactured Band 10 from un-published numbers — the referee's biggest refusal yet); Salva Kiir's Akon birth banned (person-fame); "cattle herd as GDP" killed (stock ≠ flow — only products and increase count).
+**Qualitative:** Mind 4 (Western Nilotic cradle-zone share; the Dinka cattle complex as ethnographic monument). Strategy 3.
+**Anchors:** above Porto 1975–95 (0.07)? No — below it: sits between Charleroi c. 1960 (0.06) and Sohar c. 900–970 (0.06) at top, Leiden 1665 (0.056) genre. Ledger rank ~#246–252 at top-of-range.
+**Flags:** every number pre-1900 is construction-grade; the unit's score is 80% equivalence-rule jurisprudence, 20% data. Non-literacy not penalized, per rubric — but not rewarded either.
