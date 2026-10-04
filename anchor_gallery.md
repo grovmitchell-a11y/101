@@ -105,3 +105,17 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Leontopolis 818–720 BCE (0.089); below Narbo Martius c. AD 50–100 (0.20) — at GDP top, brushing Budapest 1925–38 (0.20).
 **Registry booking:** Namangan UZ consumes its FULL ≤20% valley cap at c. 1000. Fergana 30–35 + Namangan 20 booked → Andijan ≤30, non-UZ ≤15–20 remain.
 **Flags:** window-7 monoculture forming across valley units (same florescence carries all three) — correlated-peak risk, not double count, since allocations sum ≤100%.
+
+---
+
+## UNIT 004 — ANDIJON VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** eastern Fergana Valley (~4,300 km²), densest region of Uzbekistan: **Mingtepa/Marhamat = Ershi, capital of Dayuan**; Dalverzin (largest Chust-culture town); Andijan city (Chagatayid–Timurid capital of the valley, Babur's seat; Baburnama calls it the third city of Transoxania); Asaka (the GM/UzDaewoo plant, today's Uzbek auto industry).
+**PEAK:** Window 4, **c. 110 BCE** — Ershi as capital of the Dayuan horse kingdom on the eve of the Han wars. **WINNING PATHWAY:** GDP.
+**LAWYERED:** pop **0.063–0.105%** (valley 300–500k per Shiji 123 / Hanshu 96A maximal reading × 30% registry share with the capital in-polygon / 143M floor). GDP **0.08–0.15%** (capital-of-the-kingdom multiplier 1.2–1.4, heavenly-horse remount trade to Han argued).
+**CONSENSUS:** ~0.04% (and today: pop 3.5M/8.1B = 0.043%; GDP ~0.006% market / ~0.014% PPP). **DELTA ≈ 3.5×.**
+**BAND: 10** (lawyered, top-of-range; consensus Band 8). Sturdier than Namangan's 10 (two pathways brush the line), weaker than Fergana's and Tashkent's.
+**Veto notes:** Babur's birth and the 1898/2005 events banned (event-fame); window 9 run at Babur's own "third city of Transoxania" still tops out ~0.087% GDP — killed as peak by its own arithmetic; Timurid-era 35% valley share killed by registry (Fergana+Namangan+non-UZ bookings).
+**Anchors:** above Leontopolis 818–720 BCE (0.089); below Metapontum c. 480 BCE (0.15) — GDP top exactly ties Metapontum.
+**Registry booking:** Classical-era valley split now fully booked: Fergana 30–35 / Andijan 30 / Namangan ≤20 / non-UZ 15–20. Era-splits may vary by window but each window's sum ≤100%.
+**Flags:** peak rests on reading 數十萬 high AND giving the capital district 30% — both moves defensible alone, stacked they are the lawyering.
