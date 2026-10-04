@@ -336,3 +336,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** twin of Northern Bahr el Ghazal in every column (registry symmetry, honestly reported). Ledger rank ~#265–270 at top-of-range.
 **Registry:** consumes Lakes' 25% BeG booking; BeG aggregate now fully allocated (35+25+25+15).
 **Flags:** the ≤1-year rule cut against the unit for once — noted with referee's satisfaction that the statute binds both ways.
+
+---
+
+## UNIT 018 — WESTERN EQUATORIA (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** the South Sudanese share of **Zandeland** (~79,300 km²): Yambio (seat of **King Gbudwe**, greatest of the Avongara-Azande states, r. to 1905), Nzara, Tambura, Maridi, plus Moru-Mundri country east. The first unit in the SS queue with actual kingdoms — royal courts, tribute, the Avongara aristocracy.
+**PEAK:** Window 11, **c. 1860–70** — Gbudwe-era Zandeland at full extent, Schweinfurth as the innocent eyewitness. **WINNING PATHWAY:** GDP by a nose (court-tribute organization argued).
+**LAWYERED:** pop **0.042–0.058%** (old-print "Azande ~2M" claims × the polygon's 35–40% of Zandeland, cross-checked by catastrophe backcast — the documented sleeping-sickness holocaust of 1900s–20s and Mahdist-era devastation justify 1.5–2× the first colonial counts → 500–700k / 1.2–1.27B floor). GDP **0.042–0.064%** (×1.0–1.1: organized tribute states, iron industry; still shifting-cultivation subsistence beneath).
+**CONSENSUS:** ~0.02–0.027% then; today pop ~0.95M/8.2B = 0.0116%, GDP ~0.0002% market. **DELTA ≈ 2.3×.**
+**BAND: 9** (lawyered; consensus Band 7). Best in South Sudan so far — the only pre-colonial STATE in the queue to date.
+**Veto notes:** "Azande 4M" modern-ethnic-total retrojected to 1870 killed (today's totals are not yesterday's); Gbudwe's heroic death at Birikiwe banned (event); teak plantations as modern Strategy killed (potential ≠ production).
+**Qualitative:** **Mind 6** — nameable: the Zande benge poison-oracle complex, canonized by Evans-Pritchard's 1937 monograph (fieldwork in-polygon) as THE case study of non-Western rationality; it founded a philosophy-of-science debate that outlived its empire. Strategy 3.
+**Anchors:** above Krasnoyarsk 1975–88 (0.057); below Charleroi c. 1960 (0.06) at pop, Odesa 1900–13 (0.068) at GDP top. Ledger rank ~#245–252.
+**Registry:** Zandeland aggregate — WES-SS 35–40 / DRC-Uele 45–50 / CAR 15–20.
+**Flags:** the 2M old-print figure is weak even by house standards (flagged); the sleeping-sickness backcast is the stronger leg and both legs point to the same range.
