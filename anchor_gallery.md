@@ -119,3 +119,16 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Leontopolis 818–720 BCE (0.089); below Metapontum c. 480 BCE (0.15) — GDP top exactly ties Metapontum.
 **Registry booking:** Classical-era valley split now fully booked: Fergana 30–35 / Andijan 30 / Namangan ≤20 / non-UZ 15–20. Era-splits may vary by window but each window's sum ≤100%.
 **Flags:** peak rests on reading 數十萬 high AND giving the capital district 30% — both moves defensible alone, stacked they are the lawyering.
+
+---
+
+## UNIT 005 — SIRDARYO VILOYAT (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** the Hungry Steppe (Mirzacho'l), ~4,276 km² on the left bank of the Syr Darya: Gulistan, Yangiyer, Shirin, Khavast junction. Near-empty waterless crossing between Chach and Samarkand for all of recorded history; populated only by Romanov-era canals (1890s) and the Soviet cotton colonization (oblast created 1963); Syrdarya thermal power station (~3 GW), a pillar of the Soviet Central Asian grid.
+**PEAK:** Window 14, **c. 1980** (cotton + power maximum). **WINNING PATHWAY:** GDP.
+**LAWYERED:** pop **0.011–0.012%** (oblast ~520k / 4.43B floor; today 0.9M/8.1B is the same figure — the unit has exactly one act). GDP **0.02–0.024%** (oblast ≈0.19% of Soviet population at argued ≥average per-capita output — cotton premium + the 3 GW plant — on the **CIA's own maximalist Soviet GNP share of ~12–13% of world**, credentialed print, admissible per lawyer rules).
+**CONSENSUS:** pop ~0.011%; GDP ~0.004–0.005% (today, PPP). **DELTA ≈ 2×** (GDP 4–5×).
+**BAND: 7** (lawyered — entirely carried by the CIA-GNP trick; consensus Band 6). First non-10 in the gallery.
+**Veto notes:** any pre-1890 window killed by hydrology (no water, no people — nomad winter pasture only, ≤ a few thousand); "Timurid caravan tolls" killed (route taxed at its endpoints, which are other polygons).
+**Anchors:** above Novy Urengoy 1983–2010 (ledger 0.12 is GDP-dollar lawyering of a similar genre, but on population Sirdaryo sits far below every ledger entry); below Hamburg 1965–90 in kind. Nearest true peers are off-ledger: a mid-size US farm county with a power plant.
+**Flags:** single-window unit; Aral-disaster complicity noted but not scored (no negative scoring in rubric); double-count risk nil.
