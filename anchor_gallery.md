@@ -441,3 +441,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** off-ledger floor; nearest peer in the gallery is Pibor (Band 6) and it does not reach it.
 **Registry:** GPOC 60% consumed; bookings for Country 2 now all closed except EES/WBeG bases.
 **Flags:** the smallest, newest, most single-purpose polygon yet scored — a tax district with a people attached, said with respect: the Ruweng Dinka held that ground through two wars aimed at exactly what is under it.
+
+---
+
+## UNIT 025 — WESTERN BAHR EL GHAZAL (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** largest and emptiest state (~93,900 km²): **Wau** (zariba hub → provincial capital → railhead → cathedral city), Raga, and **Deim Zubeir** — capital of al-Zubayr Rahma's private merchant empire (1856–79), the trader state that conquered the Sultanate of Darfur in 1874 from inside this polygon. Fertit, Jur-Luo and western Dinka peoples.
+**PEAK:** Window 11, **c. 1874–77** — Deim Zubeir as seat of a 4–6M-subject imperium (3 years as Darfur's master; >1 year, so it stands under the commissioner's rule). **WINNING PATHWAY:** GDP.
+**LAWYERED:** GDP **0.022–0.038%** (declining in-polygon pop 0.014–0.019% × 1.6–2.0 imperial-capital tier, pierced by documented commerce — Schweinfurth's eyewitness quantification of the Ghazal ivory-and-slave trade. Counted under protest, Khiva precedent: the gallery prices the ledger and despises the cargo). pop **0.019–0.025%**, peak earlier, **c. 1856 pre-zariba** (BeG 15% registry share / 1.19B floor).
+**CONSENSUS:** ~0.012–0.015% either era; today pop ~600k/8.2B = 0.0073%, GDP ~0.0002%. **DELTA ≈ 2.4×.**
+**BAND: 8** (lawyered; consensus Band 7).
+**Veto notes:** Zubayr's SUBJECTS (Darfur's millions) never enter the numerator — capitals score as multiplier only, the rubric's cleanest firewall; "Wau railway terminus" Strategy killed (NBeG precedent — one line, rarely running); the unit's peak is an extraction engine run against its own hinterland, the gallery's grimmest inversion: scored, and said plainly.
+**Qualitative:** Strategy **4–5** (Deim Zubeir as the hinge from which Darfur fell — a nameable command node). Mind **3** (Wau's Comboni cathedral as the southwest's Christianization beachhead).
+**Anchors:** between Bilbao 1965–92 (0.065)? No — lower: top (0.038) sits beside Addis Ababa 2018–24 (0.07)÷2; formally between the ledger floor and Pibor's ceiling peers — rank off-ledger, Band-8 by arithmetic alone.
+**Registry:** consumes WBeG's 15% BeG booking — **Bahr el Ghazal aggregate fully retired** (35+25+25+15 = 100).
+**Flags:** the multiplier rests on the morally worst commerce in the gallery; the consensus column and this flag are the honesty. Deim Zubeir's imperial moment is real, brief, and documented — the rules yield Band 8 and the referee signs it without pride.
