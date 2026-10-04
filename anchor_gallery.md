@@ -250,3 +250,40 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Roman Carthage c. 200–400 (0.50) at the very top; below Avaris c. 1650–1550 BCE (0.51). Ledger rank ~#24–26.
 **Registry:** era-skew applied — at 975: Samarkand 45 / Bukhara 40 / Navoi 7 / Panjakent 8 (sums 100; Samarkand's own peaks use its 52–55 at OTHER centuries — no window double-counts).
 **Flags:** the 2.0+ multiplier flirtation is flagged as the gallery's second-boldest move after Samarkand's Turfan import; duration metadata strong (the Samanid century is a full century, not a moment).
+
+---
+
+## UNIT 014 — TASHKENT CITY (UZ) · scored 2026-10-04 · compact entry · QUEUE COMPLETE
+
+**Polygon:** the capital city proper (~334 km²): medieval **Binkath** (capital of al-Shash and seat of its dirham mint, per Unit 002's 20–25% oasis booking), Tsarist Tashkent (capital of Russian Turkestan from 1867), **Soviet Tashkent — fourth city of the USSR** (1.38M in 1970, 2.07M in 1989), TAPOiCh (the sole Il-76 production line), today's largest city of Central Asia; custodian of the Uthman/Samarkand Quran.
+**PEAK:** Window 14/15, **c. 1979–89**. **WINNING PATHWAY:** GDP. The only unit in the gallery whose peak is in the 20th century.
+**LAWYERED:** GDP **0.09–0.11%** (0.68–0.73% of Soviet population × 1.2–1.4 urban-industrial premium × the CIA's maximalist ~12–13% Soviet share of world GNP — the Sirdaryo trick at full scale). pop **0.038–0.057%**, peak c. 1000 CE (Binkath at its booked 100–150k ceiling over the 265M floor); today 0.037% official, argued to 0.049% on the city's own de-facto-population claims (~4M unregistered-inclusive).
+**CONSENSUS:** Soviet GDP at Maddison's ~8.5% USSR share still gives **~0.07%** — Band 9 on honest numbers; pop ~0.04%. **DELTA ≈ 1.5× — the gallery's LOWEST** (best-documented unit, least room to lawyer).
+**BAND: 10** (lawyered; consensus Band 9). The medieval mint-capital pathway independently kisses the line at 0.091% (150k × 1.6 mint-and-capital multiplier) — two windows reach Band 10 by different physics.
+**Veto notes:** "4M today" accepted only as argued range-top, not point estimate; 1966 earthquake rebuild banned as event; Uthman Quran scores custody, not creation (Mind capped accordingly).
+**Qualitative:** Strategy **6–7** (nameable: the USSR's single strategic-airlifter line; command center of Soviet Central Asia). Mind 5–6.
+**Anchors:** above Leontopolis (0.089); below Surgut 1979–89 / Lille 1890–1913 (0.10) at consensus, Novy Urengoy (0.12) at lawyered top. Ledger rank ~#146–165 by era-mates.
+**Registry:** consumes the City's 20–25% Chach-oasis booking; Tashkent oasis now fully allocated.
+**Flags:** none material — the cleanest scorecard in the gallery.
+
+---
+
+# FINAL LEADERBOARD — UZBEKISTAN COMPLETE (14/14 units)
+| # | Unit | Band (lawyered/consensus) | Peak GDP | Peak pop | Peak moment |
+|---|---|---|---|---|---|
+| 1 | Bukhoro | 10/10 | 0.30–0.50% | 0.185–0.23% | c. 975 |
+| 2 | Samarkand | 10/10 | 0.30–0.46% | 0.18–0.27% | c. 720 / c. 1400 |
+| 3 | Karakalpakstan | 10/9–10 | 0.20–0.35% | 0.16–0.26% | c. 225 / c. 1215 |
+| 4 | Surkhandarya | 10/9 | 0.23–0.31% | 0.145–0.173% | c. 100–150 |
+| 5 | Tashkent viloyat | 10/9 | 0.17–0.33% | 0.13–0.21% | c. 1000–1020 |
+| 6 | Kashkadarya | 10/9 | 0.14–0.23% | 0.12–0.165% | c. 680 |
+| 7 | Khorezm | 10/8–9 | 0.11–0.20% | 0.09–0.16% | c. 225 / c. 1215 |
+| 8 | Fergana | 10/8–9 | 0.13–0.18% | 0.11–0.14% | c. 1000–1020 |
+| 9 | Andijon | 10/8 | 0.08–0.15% | 0.063–0.105% | c. 110 BCE |
+| 10 | Namangan | 10/8 | 0.09–0.145% | 0.07–0.09% | c. 1000–1020 |
+| 11 | Tashkent City | 10/9 | 0.09–0.11% | 0.038–0.057% | 1979–89 / c. 1000 |
+| 12 | Jizzakh | 9/7 | 0.05–0.069% | 0.04–0.053% | c. 1000 |
+| 13 | Navoi | 8/7 | 0.02–0.045% | 0.017–0.032% | c. 1000–1050 |
+| 14 | Sirdaryo | 7/6 | 0.02–0.024% | 0.011–0.012% | c. 1980 |
+
+Aggregate lawyered peak (NOT simultaneous — windows differ; sums shown for amusement only): the twelve pre-modern peaks draw on five distinct centuries; the c. 1000–1020 synchronized slice alone (Fergana+Tashkent+Namangan+Jizzakh+Navoi+Kashkadarya-residual+Bukhara-at-975 spillover) puts the territory of modern Uzbekistan near **1.3–1.8% of world GDP around the year 1000** — lawyered, vs a consensus ~0.6–0.8%. Eleven of fourteen units reach Band 10; the rubric's ladder confirms what the gallery suspected: Transoxania c. 1000 was briefly one of the heaviest county-scale clusters on the planet.
