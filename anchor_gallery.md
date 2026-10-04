@@ -77,3 +77,17 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 - **Population ranking:** lawyered peak 0.136% → ledger rank **~#120–122**, tying Chios 430 BCE and Seville c. 1590. Contemporary consensus 0.050% → rank ~#263–264, beside Trieste 1890–1913 and Krakow 2010–24.
 - Metadata (Ruling D): earliest attainment of ≥0.09% plausibly c. 110 BCE; duration above 0.09% (lawyered) roughly 950–1220 CE sustained, plus the 1810s–1860s fiscal-multiplier spike.
 - Epitaph: a province that was ~1/700th of humanity three separate times, a thousand years apart — and whose honest, un-lawyered population peak is this morning.
+
+---
+
+## UNIT 002 — TASHKENT VILOYAT (UZ) · scored 2026-10-04 · compact entry (commissioner requested band+shares only)
+
+**Polygon:** Tashkent Region EXCLUDING Tashkent City (separate unit, last in queue). Chirchik–Ahangaran basin: Kanka (ancient Chach capital), Shahrukhiya/Banakat, Parkent, Pskent, and all of medieval **Ilaq** (Ahangaran valley silver-lead district, capital Tunkath), plus Soviet Chirchik–Angren–Almalyk industrial belt.
+**PEAK:** Window 7, c. 1000–1020 CE (Samanid–Qarakhanid boom). **WINNING PATHWAY:** GDP.
+**LAWYERED:** pop **0.13–0.21%** (oasis 550–750k from the 10th-c. geographers' ~45–50 town roster for Shash+Ilaq and Buryakov's ~50 excavated urban sites, minus Binkath 100–150k booked to the City polygon; floor 265M). GDP **0.17–0.33%** (multiplier 1.3–1.6 argued: Ilaq mines — al-Biruni's Kuh-i Sim — feeding the al-Shash dirham mint whose coins carpet Viking-age hoards per Noonan's corpus; steppe-gate trade. Multiplier path only; no extraction stacking, to avoid double count).
+**CONSENSUS:** ~0.05–0.08% at peak; today pop 3.0M/8.1B = 0.037%, GDP ~0.006% market / ~0.013% PPP. **DELTA ≈ 3–4×.**
+**BAND: 10** (lawyered, top-of-range; consensus Band 9).
+**Veto notes:** extraction add-on ON TOP of the commercial multiplier killed as double counting; "Ilaq out-produced Panjhir" killed (archaeometallurgy ranks it secondary).
+**Anchors:** above Kairouan c. 1000 (0.19); below Fustat 969–1168 (0.26) at pop, brushing it at GDP top.
+**Registry booking:** Tashkent oasis (Chach+Ilaq) medieval aggregate — Region 75–80%, City 20–25% (Binkath). Binds Unit "Tashkent City".
+**Flags:** ambiguity low (window 7 dominates all others by ≥2×); GDP top (0.33%) is the most aggressive number in the gallery so far — survives only because the geographers are innocent and the dirham corpus is real.
