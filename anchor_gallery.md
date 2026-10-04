@@ -381,3 +381,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** above Middlesbrough 1900–13 (0.08) at GDP top; below Leontopolis (0.089)… formally straddling it: the top (0.092) sits between Leontopolis and Bordeaux c. 100–200 (0.093). Ledger rank ~#172–177.
 **Registry:** Shilluk kingdom wholly in-polygon (no sharing); Padang Dinka split with Jonglei/Ruweng booked at UN ≤15% of their aggregate.
 **Flags:** the 400k numerator is the audit's first FLAGGED-FOR-VERIFICATION entry; the Band-10 grant dissolves if it falls.
+
+---
+
+## UNIT 021 — GREATER PIBOR ADMINISTRATIVE AREA (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** the Pibor flood basin and Boma Plateau (~40,000 km²): Murle country (Pibor), Anuak Pochalla, Jiye and Kachipo fringes. Carved from Jonglei 2014; scored as the current polygon. One of the emptiest, least-governed county-scale units on Earth.
+**PEAK:** Window 11, **c. 1850s** (equivalence-rule high end of the Murle–Anuak agro-pastoral system). **WINNING PATHWAY:** population, barely distinguishable from GDP.
+**LAWYERED:** pop **0.005–0.0086%** (60–100k in-polygon / 1.16B floor). GDP **0.004–0.0086%** (×0.8–1.0 parity).
+**CONSENSUS:** ~0.003–0.0046% then; today pop 300–450k/8.1–8.2B = 0.0037–0.0056%, GDP ~0.0001% PPP. **DELTA ≈ 2×.**
+**BAND: 6** (lawyered, clearing the 0.007 line at top-of-range only; consensus Band 5). **New gallery minimum** — below Sirdaryo's 7.
+**Veto notes:** the Murle's arrival is too late and too thin for any earlier window (flood basin vetoes density in all deep time); raiding notoriety is neither structure nor score.
+**Qualitative:** Mind **3** — three charming nameables that cannot lift a band: the Anuak nobility as Evans-Pritchard's THIRD polygon-furnished textbook case in this queue; the **Boma Plateau wild Coffea arabica** stands (one of the only wild-arabica gene reservoirs outside Ethiopia — germplasm insurance for the world's most traded beverage); and the white-eared-kob migration, the largest land-mammal migration on Earth (~5–6M animals, 2023 aerial survey) — magnificent, and worth exactly nothing in GDP. Strategy 2.
+**Anchors:** below every ledger entry (ledger floor 0.048); nearest peers are off-ledger empty quarters — a Saharan cercle, an Australian shire.
+**Registry:** Anuak split booked — Pochalla-SS ≤35%, Gambela-ET ≥65%; Murle wholly in-polygon.
+**Flags:** cleanest equivalence-rule unit in the queue (no print to stack); the score is small and honest and the referee has nothing to confess.
