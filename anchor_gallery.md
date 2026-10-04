@@ -321,3 +321,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Anchors:** below Warrap (0.06) in every column — the junior sibling; top sits with Trieste 1890–1913 (0.05) genre, floor with Casablanca 1980 (0.051)… formally between Utrecht (0.048) and Krasnoyarsk (0.057) at top-of-range. Ledger rank ~#265–270.
 **Registry:** consumes NBeG's 25% BeG booking.
 **Flags:** construction-grade throughout; the polygon's peak and its worst suffering are the same frontier position — scored on the former, the latter noted.
+
+---
+
+## UNIT 017 — LAKES (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** Agar/Gok Dinka and Atuot country on the western Sudd fringe (~43,600 km²): Rumbek, Yirol, Cueibet, the toich lakes.
+**PEAK:** Window 11, **c. 1850–60** (pre-zariba maximum, BeG backcast). **WINNING PATHWAY:** population.
+**LAWYERED:** pop **0.032–0.043%** (BeG 1.5–2M × registry 25% / 1.16B floor). GDP **0.026–0.043%** (×0.8–1.0 parity).
+**CONSENSUS:** ~0.016–0.02% then; today pop ~1.1M/8.2B = 0.0134% (lawyered 0.016%), GDP ~0.0003% market / ~0.0005% PPP. **DELTA ≈ 2.2×.**
+**BAND: 8** (lawyered; consensus Band 7).
+**Veto notes:** Rumbek's 2005 proto-capital moment (SPLM interim seat before Juba) EXCLUDED under the commissioner's own ≤1-year divergence rule — the unit's one shot at a capital multiplier, struck by the house's own statute; 1860s–70s zariba-station Rumbek scores nothing (extractive devastation is not centrality).
+**Qualitative:** Mind 3–4 (cradle-zone share). Strategy 2–3.
+**Anchors:** twin of Northern Bahr el Ghazal in every column (registry symmetry, honestly reported). Ledger rank ~#265–270 at top-of-range.
+**Registry:** consumes Lakes' 25% BeG booking; BeG aggregate now fully allocated (35+25+25+15).
+**Flags:** the ≤1-year rule cut against the unit for once — noted with referee's satisfaction that the statute binds both ways.
