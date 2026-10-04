@@ -306,3 +306,18 @@ House method for text-free societies, locked for this country: equivalence rule 
 **Qualitative:** Mind 4 (Western Nilotic cradle-zone share; the Dinka cattle complex as ethnographic monument). Strategy 3.
 **Anchors:** above Porto 1975–95 (0.07)? No — below it: sits between Charleroi c. 1960 (0.06) and Sohar c. 900–970 (0.06) at top, Leiden 1665 (0.056) genre. Ledger rank ~#246–252 at top-of-range.
 **Flags:** every number pre-1900 is construction-grade; the unit's score is 80% equivalence-rule jurisprudence, 20% data. Non-literacy not penalized, per rubric — but not rewarded either.
+
+---
+
+## UNIT 016 — NORTHERN BAHR EL GHAZAL (SS) · scored 2026-10-04 · compact entry
+
+**Polygon:** Malual-Dinka country (~33,600 km²): Aweil, the colonial rice scheme, the Wau railway's border leg; the Baggara raiding frontier — hit hardest by both the 19th-c. zariba razzias and the 1980s–2000s murahaleen raids.
+**PEAK:** Window 11, **c. 1850–60** (pre-zariba maximum, per the BeG catastrophe backcast). **WINNING PATHWAY:** population.
+**LAWYERED:** pop **0.032–0.043%** (BeG 1.5–2M × registry 25% / 1.16B floor). GDP **0.026–0.043%** (×0.8–1.0 agro-pastoral parity).
+**CONSENSUS:** ~0.016–0.02% then; today pop ~1.1M/8.2B = 0.0134% (lawyered 1.3M/8.1B = 0.016%), GDP ~0.0003% market / ~0.0005% PPP. **DELTA ≈ 2.2×.**
+**BAND: 8** (lawyered; consensus Band 7).
+**Veto notes:** same kills as Warrap (no medieval conjuring; stock ≠ flow); "railway terminus" as Strategy killed — one metre-gauge branch line that mostly didn't run.
+**Qualitative:** Mind 3–4 (cradle-zone share). Strategy 2–3.
+**Anchors:** below Warrap (0.06) in every column — the junior sibling; top sits with Trieste 1890–1913 (0.05) genre, floor with Casablanca 1980 (0.051)… formally between Utrecht (0.048) and Krasnoyarsk (0.057) at top-of-range. Ledger rank ~#265–270.
+**Registry:** consumes NBeG's 25% BeG booking.
+**Flags:** construction-grade throughout; the polygon's peak and its worst suffering are the same frontier position — scored on the former, the latter noted.
