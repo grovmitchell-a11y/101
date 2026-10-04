@@ -190,3 +190,18 @@ Above **Dubai 2000–24** (ledger 0.153%); below **Venice c. 1340** (ledger 0.19
 **Anchors:** above Stockholm 1965–90 (0.23); below Kuwait City 1974–82 (0.25) — GDP top brushes Lugdunum c. 150–190 (0.25). Ledger rank ~#54–57.
 **Registry booking:** north-Bactrian plain is self-contained vs other UZ units (Balkh side of the Oxus is Afghan ADM, out of queue); no bookings created.
 **Flags:** capital-tier multiplier rests on one excavator's thesis (credentialed, contested); Buddhist-pilgrimage economy argued qualitatively, not monetized — restraint noted for the record.
+
+---
+
+## UNIT 010 — KARAKALPAKSTAN (UZ) · scored 2026-10-04 · compact entry
+
+**Polygon:** ~166,590 km² — the Amu Darya delta, the dead south Aral, the Ustyurt, and the RIGHT BANK of ancient Khorezm: the Elliq-Qala "fifty fortresses" (**Toprak-Kala**, the 2nd–3rd c. CE Khorezmian royal capital; Ayaz-Kala, Koi-Krylgan-Kala), Mizdakhan, and **Kath (modern Beruniy)**, medieval capital of Khorezm and al-Biruni's workshop. Gurganj is Turkmenistan's; Khiva is Khorezm viloyat's.
+**PEAK:** CONTESTED — Window 4/5, **c. 200–250 CE** (Toprak-Kala's royal oasis) vs Window 7, **c. 1215** (Khwarazmshah imperial core on the eve of the Mongol catastrophe). Max taken per Ruling D.
+**LAWYERED:** pop **0.16–0.26%** (Tolstov–Andrianov school numerator: the Soviet Khorezm expedition's mapped ancient canal commands at maximal simultaneity → oasis 500k–1M antique / 1.2–1.7M pre-Mongol; polygon share 55–60% antique right bank, 45–50% medieval; floors 190–191M and 332M). GDP **0.20–0.35%** (×1.2–1.5: royal capital in-polygon for the antique window; imperial-core province + the Volga–Urals caravan trunk for the medieval).
+**CONSENSUS:** ~0.08–0.11% at either peak — consensus itself sits at the Band 9/10 line. Today: pop 2.0M/8.1B = **0.0245%**, GDP ~0.003% market / ~0.006% PPP. **DELTA ≈ 2.5–3×.**
+**BAND: 10** (lawyered, by 2–4×; consensus Band 9–10). Gallery #3 on GDP.
+**Veto notes:** Juvayni's 1.2M massacred at Gurganj — wrong polygon AND killed by walled-area arithmetic anyway; Tolstov's cumulative 2.4M+ ha of mapped palaeo-canals cut to maximal SIMULTANEOUS command (the veto's biggest kill so far — cumulative-for-simultaneous is the classic Khorezm error); "Khorezm = Avestan homeland, Mind 9" killed as minority-of-a-minority geography.
+**Qualitative:** Mind **6–7** (Kath under the Afrighids; al-Biruni's formative observations made in-polygon before the 995 flight — his BIRTH banned, his workshop counted; the Khorezmian calendar tradition he recorded). Strategy **5**.
+**Anchors:** above Kuwait City 1974–82 (0.25) at GDP top; below Fustat 969–1168 (0.26) at pop top — ledger rank ~#48–53.
+**Registry booking:** **Khorezm oasis** — Karakalpakstan 55–60% antique / 45–50% medieval; Khorezm UZ (Khiva side) 25–30% both; Gurganj TM 15–25% medieval. Binds Unit "Khorezm".
+**Flags:** the one unit whose HONEST share has collapsed ~4× from its ancient consensus (Aral catastrophe) — the lawyered/consensus gap is smaller than the past/present gap; two-window ambiguity reported.
