@@ -60,7 +60,7 @@ Each row asks the same three questions about its own kind of asset:
 2. How substitutable is it, and from where?
 3. How many years to replace it if it were lost?
 
-Score the row: +3 means sole or near-sole source with a generation to replace, and it is a 10 on that row. +2 means a quarter or more of world supply, or a two-or-three-supplier oligopoly, with years to replace, and it is an 8. +1 means a leading producer in a substitutable category, and it is a 6 or 7. Nothing means write "none".
+Score the row: +3 means sole or near-sole source with a generation to replace, and it is a 10 on that row. +2 means a quarter or more of world supply, or a two-or-three-supplier oligopoly, with years to replace, and it is an 8. +1 means a leading producer in a substitutable category; it sets no floor of its own, and instead lifts the ledger tier by one, to no higher than 7. Nothing means write "none". A +1 asset is by definition replaceable, so it can help a region but never carry it.
 
 Three rules for every row:
 - Count only value to the rest of the system beyond this region's own output. A port that handles its own hinterland's trade is already in GDP and earns nothing here.
@@ -98,7 +98,7 @@ Shadow economies, informality, housing costs, peaceful separatist movements, you
 
 ## Step 4: aggregation
 
-Final tier = the highest tier among the ledger and the eight rows, minus liabilities. Not a sum, not an average. Add +1 if two rows besides the best one sit at 8 or above. Floor 1, cap 10.
+Final tier = the highest tier among the ledger and the rows scored +2 or +3, minus liabilities. Not a sum, not an average. If the region's best row is only a +1, the final tier is the ledger tier plus one, capped at 7, before liabilities. Add +1 if two rows besides the best one sit at 8 or above. Floor 1, cap 10.
 
 Why: a sum averages the vital organs away. Dhahran is a 10 on resources and a 5 on everything else, and it is a 10. A capital is a 2 on the ledger and a 10 on identity, and it is a 10. A region with a 3 on the ledger and none everywhere else is a 3.
 
