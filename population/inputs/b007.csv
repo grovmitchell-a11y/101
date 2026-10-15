@@ -1,0 +1,101 @@
+rank,year,pop,world_m,basis,flags
+601,1979,969000,,"Census, city",
+602,1911,207502,,"Census, Plymouth, Devonport and Stonehouse, merged in 1914",
+603,1896,216276,,"Census, city",
+604,1575,R3,,Reversed at the early modern Asian tier multiple of 3,R;*
+605,2024,499825,,"Census Bureau estimate, city",
+606,1913,517522,,"Municipal count, city",
+607,2020,524943,,"Census, city",
+608,1939,498000,,"Municipal estimate, city",*
+609,1,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+610,2023,2500000,,Estimate of the urban-district population,P;*
+611,-350,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+612,-250,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+613,1970,869000,,"Census, city",
+614,1910,279629,,"Census, city",
+615,-500,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+616,-480,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+617,-200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+618,-450,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+619,-200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+620,1979,1019000,,"Census, city",
+621,-260,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+622,1400,80000,,"Published 70,000 to 80,000; upper end",
+623,1120,R3.5,,"Reversed at the tier multiple of 3.5; the 230,000 dead of 1139 fail the cap",R;*
+624,1900,157760,,"Census, city",
+625,1960,291688,,"Census, city",
+626,2011,3124458,,"Census, Pune Municipal Corporation",
+627,1990,2473272,,"Census, city",
+628,1970,818000,,"Census, city",
+629,1550,75000,,"Published 70,000 to 75,000; upper end",
+630,-1285,R3,,Unlocated; reversed at the Bronze Age tier multiple of 3,R;*
+631,1960,176183,,"Census, city",
+632,2024,8700000,,"General Statistics Office, Hanoi",
+633,1050,100000,,"Nasir-i Khusraw's 20,000 under arms in 1051 as a city of 100,000",AT;*
+634,-350,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+635,2023,2250000,,"TurkStat, Bursa's five central districts",
+636,2010,1600000,,"Estimate, Daqing's urban districts",*
+637,1950,243872,,"Census, city",
+638,1939,372164,,"Census, city",
+639,-1300,10432,,Citadel and lower town of 32 ha at 326 a hectare,A
+640,1971,430000,,"Census, the present city's territory",*
+641,2023,2500000,,Estimate of the urban-district population,P;*
+642,935,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+643,850,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+644,2020,4400000,,"Census, Tangshan's urban districts",*
+645,1,19560,,60 ha at 326 a hectare,A
+646,2,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+647,1300,40000,,"Published 25,000 to 40,000; upper end",
+648,-150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+649,-100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+650,1930,214006,,"Census, city",
+651,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+652,100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+653,1300,40000,,"Published 30,000 to 40,000; upper end",
+654,100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+655,-300,25000,,"Smith's 25,000 on 130 ha",
+656,-1400,R3,,Reversed at the Bronze Age tier multiple of 3; no published count,R;*
+657,1950,183543,,"Census, city",
+658,1625,127000,,"The 127,000 of Jahangir's Deccan base",
+659,2014,1800000,,Estimate for Mosul before 2014,*
+660,2023,4570000,,MoHURD urban-district population,
+661,1930,209326,,"Census, city",
+662,2023,3000000,,Estimate of the urban-district population,P;*
+663,1979,781000,,"Census, city",
+664,2022,350000,,"Census, canton of San Jose",*
+665,150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+666,1979,934000,,"Census, city",
+667,1965,801000,,"Census, city",
+668,-250,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+669,1665,67000,,"Published 65,000 to 67,000; upper end",
+670,2010,1873794,,"Household registration, merged Tainan",
+671,1930,184923,,"Census, Allentown, Bethlehem and Easton, the ledger's unit",
+672,1960,211815,,"Census, the five Quad Cities, the ledger's unit",
+673,-3100,6000,,"Published 6,000 for the 65 ha town",
+674,2023,5500000,,MoHURD urban-district population,
+675,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+676,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+677,2022,3227246,,"Census, Chattogram City Corporation",
+678,1930,164072,,"Census, city",
+679,-60,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+680,1920,179754,,"Census, city",
+681,1620,100000,,"Reid's 100,000 and more",
+682,1521,125000,,"Pigafetta's 25,000 hearths at five a hearth",AT
+683,2006,2828861,,"Census, the eight metropolitan LGAs of Kano",
+684,2020,2439585,,"Census, Zhuhai city",
+685,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+686,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+687,2023,1480000,,"TurkStat, Antalya's five central districts",
+688,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+689,400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+690,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+691,300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+692,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+693,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+694,-750,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+695,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+696,2023,3830000,,MoHURD urban-district population,
+697,-500,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+698,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+699,400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+700,-200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*

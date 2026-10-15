@@ -1,0 +1,105 @@
+rank,year,pop,world_m,basis,flags
+101,2020,18676605,,"Census, Guangzhou city",
+101,1800,800000,,"Chandler's 800,000",
+102,1970,3146071,,"Census, municipality",
+103,-430,90000,,"Published 70,000 to 90,000 for the classical city; Athenaeus's 460,000 slaves fail the cap",*
+104,1939,829318,,"Census, city",
+105,-1985,R3,,Reversed from the ledger's GDP share at the Bronze Age tier multiple of 3; no published count or area,R;*
+106,1971,2503450,,"Census, Melbourne statistical division, the ledger's unit",
+107,450,300000,,The Northern Wei capital on the deportation counts,*
+108,-550,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count or area,R;*
+109,1960,2479015,,"Census, city",
+110,-50,100000,,"Published 100,000 for El Mirador",*
+111,1980,1595138,,"Census, city",
+112,1971,2086017,,"Census, Metropolitan Toronto, the present city's territory",
+113,1100,500000,,"Goryeo Gaegyeong with its adjoining districts, the reference figure",AT;*
+114,1921,919444,,"Census, city",
+115,-1300,R3,,Reversed from the ledger's GDP share at the Bronze Age tier multiple of 3; no published count or area,R;*
+116,2022,7000000,,"Census 2022, Riyadh city",
+117,-1070,48900,,150 ha at 326 a hectare,A;*
+118,1600,500000,,"Finch and the Jesuits: 500,000 in Akbar's last years",AT
+119,1750,700000,,Six to seven lakhs; Clive's 'as populous as London',AT
+120,1650,450000,,"Published 450,000 before the plague of 1656",*
+121,1911,714333,,"Census, city",
+122,1575,180000,,"Published 180,000 before the plague of 1575",
+122,1338,120000,,"Published 110,000 to 120,000 before the Black Death",
+123,1910,2031498,,"Census, city",
+124,-220,600000,,"Shiji: 120,000 rich households moved in 221 BC at five a household",AT;*
+125,-351,40000,,"Diodorus 16.45: over 40,000 died in the fire of 351",AT
+126,1950,775357,,"Census, city",
+127,-2500,30000,,"Weiss: 14,000 to 30,000 on 90 ha; upper end",
+128,-500,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count or area,R;*
+129,700,200000,,"Published 200,000 for Umayyad Damascus",*
+130,100,163000,,500 ha within the walls at 326 a hectare,A;*
+131,1930,900429,,"Census, city",
+132,1901,684958,,"Census, city",
+133,300,200000,,"Millon: 125,000 to 200,000; upper end",
+134,1939,3191304,,"Census, Leningrad city",
+135,1000,200000,,"Published 200,000 for Fustat",*
+136,-480,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count or area,R;*
+137,-2500,39120,,120 ha at 326 a hectare,A;*
+138,1000,200000,,"Published 100,000 to 200,000; upper end",*
+139,1150,400000,,"Published 400,000 before the Mongol sack",*
+140,1611,160000,,Census of 1611,
+141,1300,250000,,"Published 250,000 for Ilkhanid Tabriz",*
+142,60,100000,,"Published 80,000 to 100,000; Josephus's 1.1 million fails the cap on 180 ha",AT;*
+143,150,100000,,"Published 50,000 to 100,000; upper end",*
+144,-1600,40000,,"Published 12,000 to 40,000 for the palace town; upper end",*
+145,-550,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count or area,R;*
+146,150,120000,,"Galen's 40,000 citizens and 120,000 in all",AT
+147,-600,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count or area,R;*
+148,-2600,30000,,"Martin: 15,000 to 30,000; upper end",
+149,-1700,40000,,"Yadin's 30,000 to 40,000 on 80 ha; upper end",
+150,1200,200000,,"Chandler's 200,000",
+151,1338,120000,,"Villani's 90,000 mouths plus clergy and foreigners; Goldthwaite's upper 120,000",AT
+152,950,300000,,"Published 300,000 for Samanid Bukhara",*
+153,750,200000,,"Published 200,000 for Nara at its height",
+154,660,200000,,"Published 200,000 for the garrison city",*
+155,1920,748060,,"Census, city",
+156,1990,8259266,,"Census, DKI Jakarta",
+157,-1220,78240,,240 ha at 326 a hectare,A;*
+158,1965,1935430,,"Census, city",
+159,1950,744911,,"Census, city",
+160,300,100000,,"Published 100,000 for late Roman Thessalonica",*
+161,1920,772897,,"Census, city",
+162,7,117000,,"Quirinius's census: 117,000 citizens",AT
+163,800,300000,,"The Tang city within a prefecture of 467,857",*
+164,1925,700222,,"Census, city",
+165,1986,6042584,,"Census, city",
+166,1930,669817,,"Census, city",
+167,2,350000,,"Han Chengdu county's 76,256 households at the register's 4.6 a household",AT
+167,2020,15400000,,"Census, Chengdu's urban districts",*
+168,-900,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count or area,R;*
+169,-950,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count or area,R;*
+170,-1400,73350,,225 ha at 326 a hectare,A;*
+171,2010,8305218,,"Census, Bangkok Metropolitan Administration",
+172,2006,9013534,,"Census, Lagos State; the state's own count was 17.5 million",*
+173,1987,2637100,,"Household registration, Taipei city",
+174,640,326000,,"Xuanzang's 20 by 4 to 5 li, 10 km2 at 326 a hectare",A;*
+175,850,200000,,"Heian-kyo at 200,000",
+176,-1900,30000,,"Published 25,000 to 30,000 for the karum and mound; upper end",
+177,1150,200000,,"Published up to 200,000",*
+178,-1300,22820,,70 ha at 326 a hectare,A;*
+179,1920,733826,,"Census, city",
+180,1150,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count or area,R;*
+181,-400,160000,,"16 km2 walled; upper end of 80,000 to 160,000",*
+182,2011,5577940,,"Census, Ahmedabad Municipal Corporation",
+182,1600,400000,,"Published 200,000 to 400,000; upper end",
+183,1700,228200,,The 1 million claim fails the cap on the 700 ha island; area at 326 a hectare,A;*
+184,1750,1000000,,"Published 500,000 to 1 million for mid-Qing Suzhou; upper end",*
+185,1450,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count or area,R;*
+186,2020,12326518,,"Census, Wuhan city",
+187,1949,1590316,,"Census, Greater Budapest territory",
+188,-2500,22820,,70 ha at 326 a hectare,A;*
+189,200,100000,,"Published 80,000 to 100,000; upper end",
+190,-2500,39120,,Walled core of 120 ha at 326 a hectare,A;*
+191,1930,735962,,"Census, Minneapolis and St Paul, the ledger's unit",
+192,-1800,32600,,100 ha at 326 a hectare,A;*
+193,-2500,20000,,"Published 15,000 to 20,000; upper end",
+194,1939,553464,,"Census, city",
+195,1951,1021520,,"Census, city",
+196,50,50000,,"Published 30,000 to 50,000; upper end",*
+197,1250,100000,,"Published up to 100,000 for shogunal Kamakura",*
+198,1950,802178,,"Census, District of Columbia",
+199,-340,65200,,200 ha at 326 a hectare,A;*
+200,200,150000,,"Published 150,000 inside the larger Hellenistic customs wall",*

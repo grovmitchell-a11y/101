@@ -1,0 +1,101 @@
+rank,year,pop,world_m,basis,flags
+401,-370,R3.5,,Reversed from the ledger's GDP share at the ancient and medieval tier multiple of 3.5; no published count,R;*
+402,-600,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+403,2024,4910000,,"Kuwait's population, the ledger's unit; the Capital Governorate alone is a seventh of it",*
+404,300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+405,1985,1542979,,"Census, city",
+406,2020,4000000,,Estimate for Wuxi's five urban districts,*
+407,1979,1780000,,"Census, city",
+408,-850,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+409,-150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+410,2011,4467797,,"Census, Surat Municipal Corporation",
+411,2020,5163970,,"Census, Xiamen city",
+412,450,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+413,1650,200000,,"The 200,000 of the Golconda port's height",AT
+414,1,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+415,2008,2988145,,"Census, wilaya of Algiers",
+416,2011,6727000,,"Census, Greater Chennai Corporation's expanded area",*
+417,1,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+418,1953,1217674,,"Census, Greater Havana, the present city's territory",
+419,1939,833432,,"Census, city",
+420,1250,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+421,2011,2817105,,"Census, Lucknow Municipal Corporation",
+422,-350,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+423,2024,474530,,"Central Bureau of Statistics, city",
+424,1995,1000000,,"Census, Tripoli",*
+425,-350,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+426,1500,100000,,The reference figure for Melaka,AT
+427,-1700,R3,,Reversed at the Bronze Age tier multiple of 3; no published count,R;*
+428,2023,1656486,,"Census, Auckland",
+429,-1450,5200,,Upper tell and lower city of 16 ha at 326 a hectare,A
+430,2016,1184788,,"Census, city",
+431,450,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+432,1930,328132,,"Census, city",
+433,1340,46000,,"Published 46,000",
+434,2020,905748,,"Census, city",
+435,1250,50000,,"Published 38,000 to 50,000; upper end",
+436,2023,5210000,,MoHURD urban-district population,
+437,1712,163000,,D'Entrecolles's million fails the cap on 500 ha; area at 326 a hectare,A;AT;*
+438,2023,20382881,,"Census, Karachi division",
+439,1990,2325037,,"Municipal estimate, city",
+440,-500,37800,,116 ha inside the Etruscan walls at 326 a hectare,A
+441,1966,770000,,"Census, Adelaide statistical division, the ledger's unit",
+442,2022,4772846,,"Census, City of Cape Town",
+443,150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+444,1911,277991,,"Census, city",
+445,1901,239743,,"Census, city",
+446,2021,1010899,,"Census, city",
+447,2021,1308490,,"Census, Ottawa and Gatineau",
+448,-1350,16300,,50 ha at 326 a hectare,A
+449,1965,1042388,,"Census, the five merged cities",
+450,-500,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+451,1960,671852,,"Census, city",
+452,-2100,20000,,"Published 10,000 to 20,000; upper end",
+453,1997,1013070,,Ulsan metropolitan city,
+454,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+455,700,90000,,The reference figure for Cantona,AT
+456,800,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+457,-800,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+458,-70,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+459,1959,942000,,"Census, Gorky city",
+460,1640,200000,,"Manrique's 200,000",AT
+461,2023,7070000,,MoHURD urban-district population,
+462,1910,380000,,"Census, the territory merged as Wuppertal in 1929",*
+463,1991,1208554,,"Census, city",
+464,1911,266603,,"Census, city",
+465,1,30000,,"Published 20,000 to 30,000; upper end",
+466,2010,2648419,,"Household registration, merged Taichung",
+467,-800,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+468,1920,182422,,"Census, city",
+469,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+470,150,104320,,320 ha inside the round wall at 326 a hectare,A;*
+471,-340,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+472,1980,1090009,,"Census, municipality",
+473,100,48900,,150 ha inside the Roman walls at 326 a hectare,A
+474,150,R3.5,,"Reversed at the tier multiple of 3.5; published counts range from 20,000 to 60,000",R;*
+475,-300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+476,1979,1066000,,"Census, city",
+477,-500,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+478,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+479,-2450,2282,,7 ha at 326 a hectare,A
+480,400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+481,1630,200000,,The reference figure for Karta,AT
+482,1970,623530,,"Census, city",
+483,1500,100000,,"Published 100,000 in the Songhai age",*
+484,1580,250000,,"Published 60,000 to 250,000 inside 326 ha of walls; upper end",*
+485,1921,234143,,"Census, city",
+486,1930,307745,,"Census, city",
+487,1950,373628,,"Census, city",
+488,1961,475989,,"Census, Greater Winnipeg, the present city's territory",*
+489,1500,100000,,"Published 75,000 to 100,000; upper end",*
+490,1985,1044118,,"Census, city",
+491,1930,360250,,"Census, city",
+492,1980,1626152,,"Census, municipality",
+493,-480,26080,,80 ha plateau at 326 a hectare,A
+494,1979,1211000,,"Census, Sverdlovsk city",
+495,-100,R3.5,,Reversed at the tier multiple of 3.5; area uncertain,R;*
+496,2024,978468,,"Census Bureau estimate, city",
+497,1950,384575,,"Census, city",
+498,1930,755506,,"Census, Lackawanna and Luzerne counties, the ledger's unit",
+499,450,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+500,1050,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*

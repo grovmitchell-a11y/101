@@ -1,0 +1,101 @@
+rank,year,pop,world_m,basis,flags
+501,2022,4239901,,"Census, eThekwini metropolitan municipality",
+502,1911,234534,,"Census, the federated county borough",
+503,1931,226937,,"Census, city",
+504,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+505,-300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+506,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+507,150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+508,250,60000,,"Published 60,000",
+509,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+510,250,R3.5,,"Reversed at the tier multiple of 3.5; Shapur's 400,000 dead fail the cap",R;*
+511,900,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+512,2023,2215381,,"Census, Multan city",*
+513,1930,290718,,"Census, city",
+514,1930,255040,,"Census, city",
+515,2022,4066691,,"Census, Ekurhuleni metropolitan municipality",
+516,1989,1612000,,"Census, city",
+517,-600,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+518,1970,1161000,,"Census, city",
+519,-1375,R3,,Reversed at the Bronze Age tier multiple of 3; no published count,R;*
+520,-360,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+521,1951,258211,,"Census, city",
+522,300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+523,2023,5340000,,MoHURD urban-district population,
+524,-369,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+525,1970,1045000,,"Census, Kuibyshev city",
+526,-500,44010,,135 ha plateau at 326 a hectare,A
+527,100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+528,-500,29340,,90 ha plateau at 326 a hectare,A
+529,350,150000,,"Wei shu: 30,000 households taken from Guzang in 439",AT
+530,-150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+531,1,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+532,1980,762565,,"Census, City and County of Honolulu",
+533,1,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+534,50,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+535,400,40000,,"Published 30,000 to 40,000; upper end",
+536,100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+537,1951,344833,,"Census, city",
+538,-150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+539,1450,100000,,"Published 50,000 to 100,000 for Nasrid Granada; upper end",
+540,1300,40000,,"Published 40,000",
+541,1995,2449420,,"Census, Daegu city",
+542,300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+543,1985,857335,,"Census, city",
+544,330,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+545,1518,100000,,"The anonymous Milanese traveller's 100,000; fits the 142 ha walls under the cap",AT;*
+546,1970,875000,,"Census, city",
+547,-100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+548,1030,R3.5,,"Reversed at the tier multiple of 3.5; the published 100,000 fails the cap on the walled 78 ha",R;*
+549,-3000,R3,,Reversed at the Bronze Age tier multiple of 3; no published count,R;*
+550,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+551,200,50000,,"Published 50,000 with the legionary fortress",
+552,1970,904000,,"Census, Dnipropetrovsk city",
+553,1970,879000,,"Census, city",
+554,2024,9521886,,"General Statistics Office, city before the 2025 merger",
+555,1950,326037,,"Census, city",
+556,2023,3500000,,Estimate of the urban-district population,P;*
+557,-600,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+558,2019,679600,,"Macau, year-end",
+559,1911,231141,,"Census, city",
+560,100,11736,,The 36 ha mound at 326 a hectare,A
+561,1981,590750,,"Census, municipality",
+562,2023,1800000,,"TurkStat, Adana's four central districts",
+563,300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+564,-500,13040,,The 40 ha island at 326 a hectare,A
+565,100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+566,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+567,2022,1386166,,"Census, Dammam city",
+568,-100,30000,,"Published 25,000 to 30,000; upper end",
+569,300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+570,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+571,2022,680000,,"Census, Jubail",*
+572,1960,324253,,"Census, city",
+573,1910,224326,,"Census, city",
+574,1000,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+575,225,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+576,1700,R3,,Reversed at the early modern Asian tier multiple of 3,R;*
+577,2014,6945386,,"Census, Luanda province",
+578,2023,3000000,,Estimate of the urban-district population,P;*
+579,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+580,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+581,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+582,2020,1982112,,"Census, Kuala Lumpur",
+583,2005,2214494,,"Census, municipality",
+584,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+585,-800,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+586,2024,2228700,,"Bureau of National Statistics, city",
+587,2015,4007526,,"Census, Greater Amman Municipality",
+588,1981,1087915,,"Census, urban Belgrade",
+589,-200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+590,1913,631000,,"Municipal count, Odessa",
+591,1979,1014000,,"Census, city",
+592,1970,850000,,"Census, city",
+593,-200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+594,1250,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+595,1960,274970,,"Census, city",
+596,150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+597,1300,40000,,"Published 40,000",
+598,-1400,R3,,Unlocated; reversed at the Bronze Age tier multiple of 3,R;*
+599,1939,672000,,"Municipal estimate, city",
+600,2023,4420000,,MoHURD urban-district population,

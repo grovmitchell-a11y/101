@@ -1,0 +1,102 @@
+rank,year,pop,world_m,basis,flags
+801,1960,254698,,"Census, city",
+802,1500,R3,,Reversed at the early modern Asian tier multiple of 3,R;*
+803,1400,25000,,"Published 25,000",
+804,1000,R3.5,,"Reversed at the tier multiple of 3.5; the duchy's 70,000 fails the cap for the town",R;*
+805,2024,455000,,"Household registration, Hsinchu city",
+806,2022,2427924,,"Census, Mecca city",
+807,1936,241916,,"Census, city",
+808,1910,229510,,"Census, city",
+809,1100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+810,-500,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+811,1300,30000,,"Published 20,000 to 30,000; upper end",
+812,-150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+813,2000,1587315,,"Census, city",
+814,1,10000,,"Published 5,000 to 10,000; upper end",
+815,-875,16300,,50 ha at 326 a hectare,A
+816,-500,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+817,2010,1539819,,"Census, municipality",
+818,2024,420000,,"Rosstat estimate, city",
+819,1330,R3.5,,"Reversed at the tier multiple of 3.5; the published 70,000 sits at the cap",R;*
+820,1990,640104,,"Census, city",
+821,1950,284842,,"Census, city",
+822,150,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+823,700,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+824,1980,380259,,"Census, city",
+825,150,19300,,"The Han register's 19,300",AT
+826,930,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+827,930,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+828,2010,1665086,,"Census, Accra Metropolitan Assembly",
+829,2023,5461000,,"Statistical service projection, Addis Ababa",
+830,-450,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+831,1980,219419,,"Census, city",
+832,-850,13040,,The 40 ha round city at 326 a hectare,A
+833,1930,127412,,"Census, city",
+834,1960,185851,,"Census, Beaumont and Port Arthur, the ledger's unit",
+835,1980,715700,,"Census, city",
+836,1300,20000,,"Published 18,000 to 20,000; upper end",
+837,-725,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+838,2000,2443107,,"Census, city",
+839,2014,947952,,"Census, Tangier",
+840,1990,405390,,"Census, city",
+841,1975,344417,,"Census, city",
+842,1970,410490,,"Census, city",
+843,1300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+844,2008,5274321,,"Census, Khartoum state, the three cities' unit in the audit",*
+845,1789,80000,,"Published 80,000 on the eve of the Revolution",
+846,-1250,3912,,12 ha at 326 a hectare,A
+847,-1300,10000,,"Korfmann's 5,000 to 10,000; upper end",
+848,1300,20000,,"Published 20,000",
+849,2000,969396,,"Census, city",
+850,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+851,2011,2767031,,"Census, Kanpur Municipal Corporation",
+852,2019,4397073,,"Census, Nairobi county",
+853,100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+854,1981,371022,,"Census, city",
+855,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+856,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+857,-1500,R3,,Reversed at the Bronze Age tier multiple of 3; no published count,R;*
+858,850,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+859,1100,R7,,Reversed at the medieval Italian tier multiple of 7,R;*
+860,-300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+861,-1300,R3,,Reversed at the Bronze Age tier multiple of 3; no published count,R;*
+862,1300,R5,,Reversed at the medieval European tier multiple of 5,R;*
+863,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+864,-500,11410,,35 ha at 326 a hectare,A
+865,-600,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+866,1930,104906,,"Census, city",
+867,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+868,1930,104193,,"Census, city",
+869,2010,819561,,"Census, municipality",
+870,1991,777826,,"Census, city",
+871,1930,104969,,"Census, city",
+872,2024,17032322,,UN-based estimate for 2024; no census since 1984's 2.7 million,*
+873,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+874,2020,403455,,"Census, city",
+875,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+876,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+877,-600,19900,,61 ha at 326 a hectare,A
+878,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+879,1910,178891,,"Census, city",
+880,1930,101740,,"Census, city",
+881,100,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+882,2010,2452185,,"Census, city",
+883,1970,144076,,"Census, city",
+884,-200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+885,1991,276133,,"Census, city",
+886,1300,R7,,Reversed at the medieval Italian tier multiple of 7,R;*
+887,200,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+888,-500,8150,,25 ha at 326 a hectare,A
+889,1950,124769,,"Census, city",
+890,1989,242000,,"Census, city",
+891,1950,218000,,"Census, Greater Ostrava",*
+892,2010,371302,,"Census, city after the 2006 mergers",
+893,-500,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+894,2020,534000,,"Census, Capital Governorate",*
+895,1300,30000,,"Published 20,000 to 30,000; upper end",
+896,1990,2058122,,"Census, city",
+897,-500,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+898,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+899,-400,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+900,-300,R3.5,,Reversed at the tier multiple of 3.5; no published count,R;*
+901,1500,30000,,"Published 25,000 to 30,000; upper end",

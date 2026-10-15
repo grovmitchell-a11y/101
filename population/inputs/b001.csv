@@ -1,0 +1,108 @@
+rank,year,pop,world_m,basis,flags
+1,1,1800000,170,"Skill precedent: Res Gestae's 320,000 urban plebs read as adult males, plus Brunt-level slaves",PR;AT
+2,1901,6580000,1547,"Skill precedent: census Greater London, the Metropolitan Police district",PR
+3,540,1000000,190,Skill precedent: Justinian's 8 million artabae of grain at 250 kg a head,PR;AT
+4,-1270,300000,,"Published 300,000 for the Ramesside capital on its 10 km2 site",*
+5,900,1200000,,Published 1.2 million for the Abbasid capital c. 900; fits the round city and its suburbs,*
+6,1000,1000000,,"Al-Maqqari's 213,077 commoners' houses and 60,300 notables'; fits the city with its arrabales",AT;*
+7,-60,600000,,"Diodorus's 300,000 free residents c. 60 BC with an equal number of slaves",AT;*
+8,-149,700000,,"Strabo's 700,000 in 149 BC; fits the walled 30 km2 with Megara",AT
+9,1965,10869244,,"Census, Tokyo Metropolis; the 23 wards held 8.9 million",
+9,1721,1100000,,Edo at 1.1 million,
+10,-300,400000,,"Published 400,000 for Mauryan Pataliputra inside Megasthenes' 80 by 15 stadia",*
+11,-2900,80000,,"Published 50,000 to 80,000 inside the 5.5 km2 walls; upper end",
+12,742,1000000,,The Tang capital's million inside 84 km2 of walls,
+13,-700,150000,,"Published 100,000 to 150,000 inside 750 ha of walls; upper end",*
+14,530,1400000,,"Jinling ji in the Taiping huanyu ji: over 280,000 households within 40 li of the Liang palace, at five a household; Wikipedia's 'about a million'",AT;*
+14,1400,1200000,,Ming Nanjing on the high count,*
+15,-600,200000,,"Published 200,000, perhaps the first city to reach that mark",*
+16,570,500000,,"Published 500,000 for the Sasanian conurbation of al-Mada'in",*
+17,1080,1000000,,The Northern Song capital's million,
+18,-385,300000,,"The register's 300,000 for Dionysius's walled city of 1,800 ha",*
+19,1910,3500000,,"The Ruhr district in 1910, the ledger's unit",*
+20,1911,4154042,,"Census, Seine departement, the London-precedent unit; the city alone peaked at 0.17 percent in 1901",
+21,1930,6930446,,"Census, five boroughs",
+22,1930,3376438,,"Census, city",
+23,100,500000,,"Published 500,000 for Roman Antioch at its height",*
+24,1200,900000,,"Science Advances 2021: 700,000 to 900,000 in Greater Angkor at its 13th-century peak; upper end",
+25,-2500,40000,,"Published 40,000 on 250 ha",*
+26,742,1000000,,Tang Dongdu at about one million; may reflect Henan prefecture's 1.18 million of 742,*
+26,280,600000,,"Jin Luoyang at 600,000 before the sack of 311",*
+27,1910,3734258,,"Census 1910, the territory of the 1920 Greater Berlin",
+28,-431,300000,,"Attica's 300,000 inside the Long Walls in 431, Thucydides 2.14-17",AT;*
+29,-1400,80000,,"Chandler's 80,000 for New Kingdom Thebes",*
+30,1270,1500000,,Britannica's 1 to 1.5 million for the 1270s; upper end; its 2 million and Elvin's 2.5 million rest on Marco Polo,*
+31,-2030,65000,,"Chandler's 65,000, the largest city of its day",
+32,-3000,30000,,"Chandler's 30,000 for First Dynasty Memphis",*
+33,-2450,97800,,Dense architecture over c. 300 ha of the 500 ha site (Lagash Archaeological Project) at 326 a hectare; no published count,A;*
+34,1340,500000,,"Published 500,000 before the Black Death",*
+35,540,450000,,"Wei shu's 400,000 households of 534 fail the cap inside 13.8 km2 of walls; area at 326 a hectare",A;AT;*
+36,-127,500000,,"Zhufu Yan's 100,000 households in 127 BC at five a household; fits 17 km2",AT
+36,-330,350000,,"Su Qin's 70,000 households at five a household",AT
+37,-3800,21000,,"Published 15,000 to 21,000 for the 335 ha megasite; upper end",*
+38,-1250,300000,,"Researchers' peak of up to 300,000 permanent residents on Yinxu's 36 km2 (Sixth Tone); Seshat calls it unknown",*
+39,880,894680,,"Samguk Yusa's 178,936 households at five a household",AT;*
+40,165,300000,,"Britannica: at least 300,000 when Avidius Cassius burned it in 165; fits 550 ha; Pliny's 600,000 fails the cap",AT;*
+41,-75,300000,,"Appian's 300,000 transplanted settlers",AT;X;*
+42,-3700,46000,,"Rassmann et al.: 12,000 to 46,000 on c. 3,000 houses; upper end, contemporaneity contested",*
+43,1947,2982580,,"Census, Capital Federal",
+44,859,204868,,Estimate for 859 in the city's reference entry,
+45,1980,8831079,,"Census, Distrito Federal",
+46,-410,200000,,"Diodorus 13.84: 200,000 with resident aliens",AT
+47,1330,600000,,"Published 600,000 for New Sarai",*
+48,-2300,R3,,Reversed from the ledger's GDP share at the Bronze Age tier multiple of 3; no published count or area,R;*
+49,-520,300000,,"Diodorus 12.9: 300,000 citizens, the register's Sybaris convention",AT
+50,2010,23019148,,"Census, Shanghai municipality",
+51,1986,5495488,,By-census,
+52,1980,8493226,,"Census, city",
+53,1920,1823779,,"Census, city",
+54,1960,6040000,,Moscow inside the ring road after the 1960 expansion,*
+55,1000,350000,,"Chandler's 350,000 for Kalbid Palermo",
+56,-1650,34600,,"Austrian Archaeological Institute: 28,800 to 34,600 on 250 ha; upper end",
+57,1000,500000,,"Published 500,000 before the Mongols",*
+58,2011,16787941,,"Census, NCT of Delhi",
+58,1330,400000,,Ibn Battuta's largest city of India,AT
+59,-2600,35000,,"No published count; 350 ha of eleven mounds at the skill's lower rate of 100 a hectare; 326 a hectare would give 114,000",A;*
+60,-1800,65200,,200 ha at 326 a hectare,A;*
+61,1939,1711877,,"Census, Hamburg after the 1937 merger",
+62,2014,21516000,,"Beijing municipality, year-end",
+62,1500,672000,,"Chandler's 672,000",
+63,2024,6036900,,"Singapore, mid-year",
+64,-2400,32600,,Inner city of 100 ha at 326 a hectare,A;*
+65,1970,4251918,,"Census, city",
+66,1990,10612577,,"Census, Seoul special city",
+67,1930,1568662,,"Census, city",
+68,1288,200000,,"Bonvesin de la Riva's 200,000",AT
+69,800,200000,,"Published 200,000 for Abbasid Basra",*
+70,-340,172780,,"No published count; 530 ha at 326 a hectare; Strabo's 30,000 foot and 3,000 horse are an army, not a census",A;*
+71,-3800,R3,,Reversed from the ledger's GDP share at the Bronze Age tier multiple of 3; no published count or area,R;*
+72,1940,3252340,,"Census, Osaka city",
+73,2020,17560061,,"Census, Shenzhen city",
+74,2023,13004135,,"Census, Lahore district, the city corporation's area",
+74,1600,500000,,Akbar's Lahore on the travellers' accounts,AT;*
+75,-2350,49040,,Survey extent of 400 ha with a 40 ha centre: centre at 326 and the rest at 100 a hectare,A;*
+76,1976,3143750,,"Census, Sydney statistical division, the ledger's unit",
+77,-2100,40000,,"UNESCO: about 40,000 inside the 135 ha Ur III walls",
+78,-3600,R3,,"Reversed at the Bronze Age multiple of 3; the 280 ha LC2 scatter at 100 a hectare gives 28,000 and the walled town's published 3,000 gives a tenth of that",R;*
+79,-300,100000,,"Published 100,000 for the Hellenistic city",*
+80,-750,75000,,"Published 75,000 for Kalhu",*
+81,-2500,23500,,"Published 23,500",*
+82,100,250000,,"Published 250,000 for Roman Ephesus",*
+83,-2450,42380,,130 ha on the CORONA imagery at 326 a hectare,A;*
+84,-1345,50000,,"Kemp's 20,000 to 50,000; upper end",X
+85,-1500,97800,,"Inner city of 300 ha at 326 a hectare; Seshat's 500,000 to 1 million is the whole Erligang core region",A;*
+86,1500,500000,,"Paes and Razzaq: about 500,000",AT
+87,-710,93900,,288 ha at 326 a hectare,A;X
+88,-2000,32600,,100 ha at 326 a hectare,A;*
+89,1650,600000,,"Chardin's 600,000",AT
+90,600,386000,,"Jangan walls of 1,185 ha at 326 a hectare",A;*
+91,-850,40000,,"Arrian's 38,000 killed and sold in 332 BC as the island's measure",AT;P;*
+92,-500,130400,,400 ha at 326 a hectare,A;*
+93,-2350,40000,,"Published 40,000; Pettinato's 260,000 fails the cap on 56 ha",*
+94,-1300,50000,,"Published 40,000 to 50,000 on 180 ha; upper end",
+95,-2800,35000,,"Published 20,000 to 35,000; upper end",
+96,1120,200000,,"Chandler's 200,000 for Seljuk Merv",
+97,-510,100000,,"Diodorus 12.9: Milo's 100,000 against Sybaris, the register's convention",AT
+98,-2500,75273,,Early Dynastic III extent of 230.9 ha (del Bravo) at 326 a hectare,A;*
+99,1921,1034174,,"Census, city",
+100,-1800,R3,,Reversed from the ledger's GDP share at the Bronze Age tier multiple of 3; no published count or area,R;*
